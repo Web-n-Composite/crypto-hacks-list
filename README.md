@@ -17,3 +17,9 @@ Cryptocurrency hacks list
 | May 2021 | $200m         | PancakeBunny     | PancakeBunny tanks 96% following $200M flash loan exploit                                      | https://cointelegraph.com/news/pancakebunny-tanks-96-following-200m-flash-loan-exploit                                   |
 | May 2021 | $11m          | bEarn            | DeFi Protocol bEarn Suffers $11M Flash Loan Attack                                             | https://finance.yahoo.com/news/defi-protocol-bearn-suffers-11m-052524424.html                                            |
 | May 2021 | $22m          | Value DeFi       | $22 Million Was Stolen From Three Defi Platforms Last Weekend                                  | https://thedefiant.io/22-million-was-stolen-from-three-defi-platforms-last-weekend                                       |
+Jun 2021	$27m	Stablemagnet	THE STABLEMAGNET RUGPULL (JUNE 2021)	https://halborn.com/explained-the-stablemagnet-rugpull-june-2021/
+:-----:
+Jun 2021	$20m	Wintermute	Wintermute Makes "Optimistic" Assumption, Loses 20M Tokens	https://cryptobriefing.com/wintermute-makes-optimistic-assumption-loses-20m-optimism-tokens/
+Aug 2021	$80m	Liquid	Liquid exchange hacked to the tune of $80 million	https://cointelegraph.com/news/breaking-liquid-exchange-hacked-to-the-tune-of-80-million
+Aug 2021	$25m	Popsicle Finance	DeFi Protocol Popsicle Finance Hacked for $25 Million	https://decrypt.co/77620/defi-protocol-popsicle-finance-hacked-25-million
+Sept 2021	$35m	Vee Finance	Vee Finance Hit for $35M in Second Major Exploit on Avalanche	https://www.coindesk.com/tech/2021/09/21/vee-finance-hit-for-35m-in-second-major-exploit-on-avalanche/
