@@ -1,11 +1,13 @@
 # crypto-hacks-list
 
 Cryptocurrency hacks list from January 2021 to date
+
 <style scoped>
 table {
   font-size: 8px;
 }
 </style>
+
 | Date      | Amount stolen | Who?                 | What?                                                                                                                              | URL                                                                                                                                                                                     |                                                                                              |
 |-----------|---------------|----------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Feb 2021  | $45k          | Cryptopia            | Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process                                     | https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/                                                                |                                                                                              |
