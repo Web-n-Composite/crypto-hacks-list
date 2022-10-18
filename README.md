@@ -3,7 +3,7 @@
 Cryptocurrency hacks list from January 2021 to date
 <style scoped>
 table {
-  font-size: 10px;
+  font-size: 8px;
 }
 </style>
 
