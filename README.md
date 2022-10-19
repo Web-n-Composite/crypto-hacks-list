@@ -1,6 +1,6 @@
 # crypto-hacks-list
 
-Cryptocurrency hacks list from January 2021 to date
+Cryptocurrency hacks list from January 2021 - updated weekly. 
 
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
