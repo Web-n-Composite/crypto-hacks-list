@@ -2,12 +2,12 @@
 
 Cryptocurrency hacks list from January 2021 to date
 
-| Date | Amount stolen | Who? | What? | URL |
-|---|---|---|---|---|
-| Feb 2021 | $45k | Cryptopia | Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process | https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/ |
-| Feb 2021 | $37m | Alpha Homora | Alpha Homora loses $37 million following Iron Bank exploit | https://cointelegraph.com/news/alpha-homora-loses-37-million-following-iron-bank-exploit |
-| Feb 2021 | $14m | Furucombo | Transaction batching protocol Furucombo suffers $14 million ‘evil contract’ hack | https://cointelegraph.com/news/transaction-batching-protocol-furucombo-suffers-14-million-evil-contract-hack |
-| Feb 2021 | $11m | Yearn Finance | Hacker Spends $8.3 Million in Fees to Attack Yearn Finance | https://cryptobriefing.com/hacker-spends-8-3-million-fees-attack-yearn-finance/ |
+| Date | Amount stolen | Who? | What? |
+|---|---|---|---|
+| Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process] (https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
+| Feb 2021 | $37m | Alpha Homora | [Alpha Homora loses $37 million following Iron Bank exploit](https://cointelegraph.com/news/alpha-homora-loses-37-million-following-iron-bank-exploit) |
+| Feb 2021 | $14m | Furucombo | [Transaction batching protocol Furucombo suffers $14 million ‘evil contract’ hack](https://cointelegraph.com/news/transaction-batching-protocol-furucombo-suffers-14-million-evil-contract-hack) |
+| Feb 2021 | $11m | Yearn Finance | [Hacker Spends $8.3 Million in Fees to Attack Yearn Finance](https://cryptobriefing.com/hacker-spends-8-3-million-fees-attack-yearn-finance/) |
 | Mar 2021 | $3m | PAID Network | PAID Network exploiter nets $3 million in infinite mint attack | https://cointelegraph.com/news/paid-network-exploiter-nets-3-million-in-infinite-mint-attack |
 | Mar 2021 | $31m | Meerkat Finance | Dev says $31 million Meerkat Finance exploit was a ‘test’; will return funds | https://cointelegraph.com/news/dev-says-31-million-meerkat-finance-exploit-was-a-test-will-return-funds |
 | Apr 2021 | n/a | Hotbit | Cryptocurrency Exchange Hotbit Hacked: Systems Paralyzed, 2 Million Users Affected | https://news.bitcoin.com/cryptocurrency-exchange-hotbit-hacked-2-million-users/ |
