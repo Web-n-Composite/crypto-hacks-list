@@ -4,14 +4,14 @@ Cryptocurrency hacks list from January 2021 to date
 
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
-| Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process] (https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
+| Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process](https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
 | Feb 2021 | $37m | Alpha Homora | [Alpha Homora loses $37 million following Iron Bank exploit](https://cointelegraph.com/news/alpha-homora-loses-37-million-following-iron-bank-exploit) |
 | Feb 2021 | $14m | Furucombo | [Transaction batching protocol Furucombo suffers $14 million ‘evil contract’ hack](https://cointelegraph.com/news/transaction-batching-protocol-furucombo-suffers-14-million-evil-contract-hack) |
 | Feb 2021 | $11m | Yearn Finance | [Hacker Spends $8.3 Million in Fees to Attack Yearn Finance](https://cryptobriefing.com/hacker-spends-8-3-million-fees-attack-yearn-finance/) |
-| Mar 2021 | $3m | PAID Network | PAID Network exploiter nets $3 million in infinite mint attack | https://cointelegraph.com/news/paid-network-exploiter-nets-3-million-in-infinite-mint-attack |
-| Mar 2021 | $31m | Meerkat Finance | Dev says $31 million Meerkat Finance exploit was a ‘test’; will return funds | https://cointelegraph.com/news/dev-says-31-million-meerkat-finance-exploit-was-a-test-will-return-funds |
-| Apr 2021 | n/a | Hotbit | Cryptocurrency Exchange Hotbit Hacked: Systems Paralyzed, 2 Million Users Affected | https://news.bitcoin.com/cryptocurrency-exchange-hotbit-hacked-2-million-users/ |
-| Apr 2021 | $50m | Uranium Finance | Binance Chain DeFi Exchange Uranium Finance Loses $50M in Exploit | https://www.coindesk.com/markets/2021/04/28/binance-chain-defi-exchange-uranium-finance-loses-50m-in-exploit/ |
+| Mar 2021 | $3m | PAID Network | [PAID Network exploiter nets $3 million in infinite mint attack](https://cointelegraph.com/news/paid-network-exploiter-nets-3-million-in-infinite-mint-attack) |
+| Mar 2021 | $31m | Meerkat Finance | [Dev says $31 million Meerkat Finance exploit was a ‘test’; will return funds](https://cointelegraph.com/news/dev-says-31-million-meerkat-finance-exploit-was-a-test-will-return-funds) |
+| Apr 2021 | n/a | Hotbit | [Cryptocurrency Exchange Hotbit Hacked: Systems Paralyzed, 2 Million Users Affected](https://news.bitcoin.com/cryptocurrency-exchange-hotbit-hacked-2-million-users/) |
+| Apr 2021 | $50m | Uranium Finance | [Binance Chain DeFi Exchange Uranium Finance Loses $50M in Exploit](https://www.coindesk.com/markets/2021/04/28/binance-chain-defi-exchange-uranium-finance-loses-50m-in-exploit/) |
 | Apr 2021 | $80 | EasyFi | EasyFi Hacked for Over $80 Million in MetaMask Attack | https://cryptobriefing.com/easyfi-hacked-over-80-million-metamask-attack/ |
 | May 2021 | $25m | xToken | xToken DeFi Project Hacked For Over $25M | https://thedefiant.io/xtoken-defi-project-hacked-for-over-25m |
 | May 2021 | $30m | Spartan Protocol | Binance Smart Chain's Spartan Protocol Loses $30M+ in Exploit | https://www.coindesk.com/markets/2021/05/02/binance-smart-chains-spartan-protocol-loses-30m-in-exploit/ |
