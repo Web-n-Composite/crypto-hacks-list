@@ -13,8 +13,6 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-df = pd.read_csv('https://github.com/Web-n-Composite/crypto-hacks-list/commit/c186cf0deead120873af5d881ad7df73949fa7b9')
-df.head()
 
 
 
