@@ -1,8 +1,8 @@
 # crypto-hacks-list
 
-*Cryptocurrency hacks list from January 2021 - updated weekly.* 
+**Cryptocurrency hacks list from January 2021 - updated weekly.**
 
-"At this rate, 2022 will likely surpass 2021 as the biggest year for hacking on record. So far, hackers have grossed over $3 billion dollars across 125 hacks" - Chainalysis, October 12, 2022 via Twitter
+"At this rate, 2022 will likely surpass 2021 as the biggest year for hacking on record. So far, hackers have grossed over $3 billion dollars across 125 hacks" - *Chainalysis, October 12, 2022 via Twitter*
 
 Blockchain analytics firm Chainalysis has labeled October 2022 as “the biggest month in the biggest year ever for hacking activity” with the total hacked value for the month nearly reaching $718 million.
 
