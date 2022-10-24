@@ -10,6 +10,14 @@ Despite not being more than halfway through the month, Chainalysis said 11 diffe
 
 The biggest target for hackers is cross-chain bridges, with three bridges targeted this month accounting for 82% of October’s losses. According to Chainalysis, the largest of these bridge hacks was a roughly $100 million exploit in the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
 
+
+fig = px.line(df, x = 'AAPL_x', y = 'AAPL_y', title='Apple Share Prices over time (2014)')
+fig.show()
+
+
+
+
+
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
 | Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process](https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
