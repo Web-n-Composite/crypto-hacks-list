@@ -2,6 +2,14 @@
 
 Cryptocurrency hacks list from January 2021 - updated weekly. 
 
+"At this rate, 2022 will likely surpass 2021 as the biggest year for hacking on record. So far, hackers have grossed over $3 billion dollars across 125 hacks" - Chainalysis, October 12, 2022 via Twitter
+
+Blockchain analytics firm Chainalysis has labeled October 2022 as “the biggest month in the biggest year ever for hacking activity” with the total hacked value for the month nearly reaching $718 million.
+
+Despite not being more than halfway through the month, Chainalysis said 11 different hacks on decentralized finance (DeFi) protocols had seen hundreds of millions exploited.
+
+The biggest target for hackers is cross-chain bridges, with three bridges targeted this month accounting for 82% of October’s losses. According to Chainalysis, the largest of these bridge hacks was a roughly $100 million exploit in the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
+
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
 | Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process](https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
