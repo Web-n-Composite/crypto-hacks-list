@@ -10,6 +10,7 @@ Despite not being more than halfway through the month, Chainalysis said 11 diffe
 
 The biggest target for hackers is cross-chain bridges, with three bridges targeted this month accounting for 82% of October’s losses. According to Chainalysis, the largest of these bridge hacks was a roughly $100 million exploit in the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
 
+![crypto hacks 1](https://user-images.githubusercontent.com/115637286/199209919-75089bf8-65aa-44d4-9e86-3e276654fa0a.jpg)
 
 
 
@@ -72,3 +73,5 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 | Oct 2022 | $100m | Binance | [Binance Smart Chain Halts After $100M Crypto Theft!](https://www.techarp.com/money/binance-100m-crypto-theft/) |
 | Oct 2022 | $90m | Mirror Protocol | [DeFi Hack Worth $90M Unveiled Seven Months Following The Theft](https://www.thecoinrepublic.com/2022/05/31/defi-hack-worth-90m-unveiled-seven-months-following-the-theft/) |
 | Oct 2022 | $21m | Transit Swap | [Transit Swap loses over $21M due to code bug exploit, issues apology](https://cointelegraph.com/news/transit-swap-loses-over-21m-due-to-internal-bug-hack-issues-apology) |
+
+![crypto hacks 2](https://user-images.githubusercontent.com/115637286/199209977-dbc3d381-df8e-4f93-80e8-895b9c07393b.jpg)
