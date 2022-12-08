@@ -1,4 +1,4 @@
-![Webncomposite Logo-01](https://user-images.githubusercontent.com/114734003/199211647-5cbd9838-3eaf-4bfd-bf9e-9440188f1d7f.jpg)
+!![image](https://user-images.githubusercontent.com/114734003/206472916-77c44e1b-d0e7-41ab-939e-3b36484607cf.png)
 
 # crypto-hacks-list
 
