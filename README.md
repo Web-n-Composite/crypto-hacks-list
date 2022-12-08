@@ -79,7 +79,8 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-![image](https://user-images.githubusercontent.com/114734003/206475329-f70035d8-a7ea-4a0e-8373-79bf1fb45b30.png)Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcaption>Binance Smart Chain – BNB Chain</figcaption></figure>
+![image](https://user-images.githubusercontent.com/114734003/206475329-f70035d8-a7ea-4a0e-8373-79bf1fb45b30.png)
+Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcaption>Binance Smart Chain – BNB Chain</figcaption></figure>
 
 
 
