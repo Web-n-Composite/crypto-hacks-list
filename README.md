@@ -10,7 +10,8 @@ Blockchain analytics firm Chainalysis has labeled October 2022 as “the biggest
 Despite not being more than halfway through the month, Chainalysis said 11 different hacks on decentralized finance (DeFi) protocols had seen hundreds of millions exploited.
 
 The biggest target for hackers is cross-chain bridges, with three bridges targeted this month accounting for 82% of October’s losses. According to Chainalysis, the largest of these bridge hacks was a roughly $100 million exploit in the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
-<![image](https://user-images.githubusercontent.com/114734003/206472916-77c44e1b-d0e7-41ab-939e-3b36484607cf.png) width="100" height="100">
+
+<img src="https://user-images.githubusercontent.com/114734003/206472916-77c44e1b-d0e7-41ab-939e-3b36484607cf.png" width="100" height="100">
 
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
