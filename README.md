@@ -110,16 +110,15 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>According to programmer&nbsp;&nbsp;<a href="https://mobile.twitter.com/kelvinfichter/status/1425290462076747777" target="_blank" rel="noreferrer noopener"><u>Kelvin Fichter</u></a>&nbsp;, the protocol creates&nbsp;&nbsp;<code>digital self-managed safes on two different blockchains</code>.&nbsp;It then allows the user to withdraw funds from one box only after they receive confirmation from the other box that the corresponding amount of assets has been deposited into it.</p>
+[According to programmer](https://mobile.twitter.com/kelvinfichter/status/1425290462076747777) Kelvin Fichter, the protocol creates digital self-managed safes on two different blockchains. It then allows the user to withdraw funds from one box only after they receive confirmation from the other box that the corresponding amount of assets has been deposited into it.
 
 
 
-<p>The hacker (or hackers) managed to find a way to trick the safe box into releasing the funds stored in it without obtaining legal permission from another blockchain.&nbsp;They took advantage of this vulnerability on 10th August to steal over&nbsp;&nbsp;<em>$610 million</em>&nbsp;in total .</p>
+The hacker (or hackers) managed to find a way to trick the safe box into releasing the funds stored in it without obtaining legal permission from another blockchain. They took advantage of this vulnerability on 10th August to steal over $610 million in total.
 
 
 
-<p>Fortunately, this story has a happy ending.&nbsp;The team&nbsp;<code>Poly Network</code>&nbsp;<a href="https://twitter.com/PolyNetwork2/status/1425123153009803267" target="_blank" rel="noreferrer noopener"><u>made contact</u></a>&nbsp;&nbsp;with the hacker shortly after the attack, which eventually led to the&nbsp;&nbsp;<a href="https://www.reuters.com/technology/crypto-platform-poly-network-says-hacked-funds-returned-2021-08-23/" target="_blank" rel="noreferrer noopener"><u>return</u></a><em>&nbsp;of all $ 610 million worth</em>&nbsp;&nbsp;of stolen assets&nbsp;.</p>
-
+Fortunately, this story has a happy ending. The team [Poly Network](https://twitter.com/PolyNetwork2/status/1425123153009803267) made contact with the hacker shortly after the attack, [which eventually led to the return](https://www.reuters.com/technology/crypto-platform-poly-network-says-hacked-funds-returned-2021-08-23) of all $ 610 million worth of stolen assets.
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity">
@@ -130,7 +129,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 280 million US dollars.</code></p>
+**The value of lost assets: 280 million US dollars.
 
 
 
@@ -138,19 +137,19 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>Next on our list is&nbsp;&nbsp;<code>KuCoin</code>, another major crypto exchange&nbsp;<strong>that</strong>&nbsp;&nbsp;was hacked&nbsp;&nbsp;<code>25 September 2020 </code>, stripping&nbsp;<em>$285 million of</em>&nbsp;user assets.&nbsp;In this case, it can be noted that the quick and accurate&nbsp;&nbsp;<a href="https://news.bitcoin.com/kucoin-boss-on-strategy-after-hack-we-chose-to-act/"><u>actions</u></a>&nbsp;&nbsp;on the part of the exchange, coupled with close cooperation with other companies in the cryptocurrency industry, allowed KuCoin to survive after the incident.</p>
+Next on our list is KuCoin, another major crypto exchange that was hacked on 25th September 2020 , stripping $285 million of user assets. In this case, it can be noted that the [quick and accurate actions](https://news.bitcoin.com/kucoin-boss-on-strategy-after-hack-we-chose-to-act) on the part of the exchange, coupled with close cooperation with other companies in the cryptocurrency industry, allowed KuCoin to survive after the incident.
 
 
 
-<p>Within a week of the hack&nbsp;<code>Chainalysis</code>, the blockchain data processing&nbsp; company&nbsp;<a href="https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap"><u>traced</u></a>&nbsp;&nbsp;all the stolen funds and was able to get on the trail of the criminals.&nbsp;Their Reactor crypto-forensic tool kept the money out of sight, despite criminals trying to mask the movement of funds through coin mixers and decentralized exchanges (&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex"><u>DEXs</u></a>&nbsp;), which usually leave no trace.</p>
+Within a week of the hack [Chainalysis](https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap), the blockchain data processing company traced all the stolen funds and was able to get on the trail of the criminals. Their Reactor crypto-forensic tool kept the money out of sight, despite criminals trying to mask the movement of funds through coin mixers and [decentralized exchanges](https://coinmarketcap.com/alexandria/glossary/decentralized-exchange-dex) which usually leave no trace.
 
 
 
-<p>Through the use of blockchain tools and cooperation with other exchanges and law enforcement agencies, he&nbsp;<code>KuCoin</code>&nbsp;<a href="https://twitter.com/lyu_johnny/status/1326465021346373632"><u>returned</u></a><code>84%</code>&nbsp;the stolen tokens, and covered the remaining losses from his own capital and&nbsp;&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/insurance-fund"><u>insurance fund</u></a>&nbsp;.&nbsp;Moreover, after the attack, the exchange established&nbsp;&nbsp;<a href="https://www.kucoin.com/land/guardian"><u>the Safeguard Program</u></a>&nbsp;to enable other crypto companies to benefit from their invaluable experience in dealing with the consequences of a hack, if they find themselves in a similar situation.</p>
+Through the use of blockchain tools and cooperation with other exchanges and law enforcement agencies, [KuCoin](https://twitter.com/lyu_johnny/status/1326465021346373632) returned the stolen tokens, and covered the remaining [losses from his own capital and](https://coinmarketcap.com/alexandria/glossary/insurance-fund) insurance fund. Moreover, after the attack, [the exchange established](https://www.kucoin.com/land/guardian) the Safeguard Program to enable other crypto companies to benefit from their invaluable experience in dealing with the consequences of a hack, if they find themselves in a similar situation.
 
 
 
-<p>With a skillful approach to resolving the incident&nbsp;<code>KuCoin</code>, she earned the respect of customers and rightfully ranked sixth among the leading cryptocurrency exchanges with a&nbsp;&nbsp;<a href="https://coinmarketcap.com/rankings/exchanges/"><u>daily trading volume of</u></a>&nbsp;<em>&nbsp;about $ 1.92 billion</em>&nbsp;as of August 2021</code>.</p>
+With a skillful approach to resolving the incident KuCoin, she earned the respect of customers and rightfully ranked sixth among the [leading cryptocurrency exchanges]("https://coinmarketcap.com/rankings/exchanges/) with daily trading volume of about $ 1.92 billion as of August 2021.
 
 
 
@@ -158,7 +157,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 70 thousand US dollars.</code></p>
+**The value of lost assets: 70 thousand US dollars.
 
 
 
@@ -166,11 +165,11 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>The Italian exchange&nbsp;<code>Altsbit</code>only existed for a few months before it was hacked.&nbsp;The exchange initially reported a hack&nbsp;&nbsp;<a href="https://www.infosecurity-magazine.com/news/crypto-exchange-loses-almost-all/"><u>, claiming almost all funds had been stolen</u></a>&nbsp;&nbsp;.&nbsp;After more thorough research, it turned out that Altsbit lost less than half of the stored cryptocurrency.&nbsp;</p>
+The Italian exchange Altsbit only existed for a few months before it was hacked. The exchange initially [reported a hack](https://www.infosecurity-magazine.com/news/crypto-exchange-loses-almost-all/) claiming almost all funds had been stolen. After more thorough research, it turned out that Altsbit lost less than half of the stored cryptocurrency.
 
 
 
-<p><code>Altsbit</code>announced that&nbsp;&nbsp;<a href="https://altsbit.com/order?url=dp-btc"><u>it only had enough funds for a partial refund</u></a>&nbsp;&nbsp;, and that they would close&nbsp;&nbsp;<a href="https://cointelegraph.com/news/hacked-italian-exchange-altsbit-to-shut-down-in-may-2020"><u>in May 2020</u></a>&nbsp;&nbsp;.&nbsp;The hacker group&nbsp;&nbsp;<a href="https://twitter.com/LulzSec/status/1226018613666041857"><u>Lulzsec claimed to be responsible for the hack,</u></a>&nbsp;&nbsp;although it is still unclear how they managed to pull it off.&nbsp;Approximately $&nbsp;<em>70,000</em>&nbsp;worth of cryptocurrencies were stolen .</p>
+[Altsbit announced that](https://altsbit.com/order?url=dp-btc) it only had enough funds for a partial refund and [that they would close](https://cointelegraph.com/news/hacked-italian-exchange-altsbit-to-shut-down-in-may-2020) in May 2020. [The hacker group Lulzsec](https://twitter.com/LulzSec/status/1226018613666041857) claimed to be responsible for the hack, although it is still unclear how they managed to pull it off. Approximately 70,000 worth of cryptocurrencies were stolen.
 
 
 
@@ -182,7 +181,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 51 million US dollars.</code></p>
+**The value of lost assets: 51 million US dollars.
 
 
 
@@ -190,11 +189,11 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>The South Korean exchange&nbsp;<code>Upbit</code>&nbsp;suffered a major hack when the hackers escaped&nbsp;<code>342 000 ETH</code>(at the time of the hack they were valued at&nbsp;<em>$51 million</em>&nbsp;).&nbsp;Rumors circulated that this was an inside job, as&nbsp;&nbsp;<a href="https://www.hackread.com/upbit-cryptocurrency-exchange-hacked-ether-stolen/"><u>the stolen cryptocurrency was allegedly taken from an Upbit cold wallet</u></a>&nbsp;&nbsp;.&nbsp;This turned out to be a false alarm.&nbsp;Fortunately,&nbsp;<code>Upbit</code>he promised to cover the losses.</p>
+The South Korean exchange Upbit suffered a major hack when the hackers escaped with 342 000 ETH at the time of the hack they were valued at $51 million. Rumors circulated that [this was an inside job](https://www.hackread.com/upbit-cryptocurrency-exchange-hacked-ether-stolen) the stolen cryptocurrency was allegedly taken from an Upbit cold wallet. This turned out to be a false alarm. Fortunately, Upbit he promised to cover the losses.
 
 
 
-<p>However, the story does not end there.&nbsp;<a href="https://cointelegraph.com/news/upbit-hack-stolen-eth-worth-millions-on-the-move-to-unknown-wallets"><u>The stolen cryptocurrency was on its way</u></a>&nbsp;&nbsp;.&nbsp;Whoever took it moved it between wallets, though it’s not clear what purpose this would serve.&nbsp;As of January 2020,&nbsp;&nbsp;<a href="https://cointelegraph.com/news/crypto-exchange-upbit-finishes-security-update-in-response-to-2019-hack"><u>Upbit has completed a major security update</u></a>&nbsp;&nbsp;after a brief suspension of service.</p>
+However, [the story does not end there](https://cointelegraph.com/news/upbit-hack-stolen-eth-worth-millions-on-the-move-to-unknown-wallets). The stolen cryptocurrency was on its way. Whoever took it moved it between wallets, though it’s not clear what purpose this would serve. [As of January 2020](https://cointelegraph.com/news/crypto-exchange-upbit-finishes-security-update-in-response-to-2019-hack) Upbit has completed a major security update after a brief suspension of service.
 
 
 
@@ -206,7 +205,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 500 thousand US dollars.</code></p>
+**The value of lost assets: 500 thousand US dollars.
 
 
 
@@ -214,11 +213,11 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>Based in Vietnam&nbsp;<code>VinDAX</code>, this is a relatively small crypto exchange that mainly sells tokens for relatively unknown blockchain projects.&nbsp;The hackers don’t care about the size of the exchange, they only care about the money, and they managed to&nbsp;&nbsp;<a href="https://bitcoinexchangeguide.com/vietnam-crypto-exchange-vindax-hacked-losing-500000-in-cryptocurrencies/"><u>steal half a million dollars worth of cryptocurrencies from VinDAX</u></a>&nbsp;&nbsp;.</p>
+Based in Vietnam VinDAX, this is a relatively small crypto exchange that mainly sells tokens for relatively unknown blockchain projects. The hackers don’t care about the size of the exchange, they only care about the money, [and they managed to](https://bitcoinexchangeguide.com/vietnam-crypto-exchange-vindax-hacked-losing-500000-in-cryptocurrencies/) half a million dollars worth of cryptocurrencies from VinDAX.
 
 
 
-<p>In response&nbsp;<code>VinDAX</code>, he sent an email to the projects affected by the theft,&nbsp;&nbsp;<a href="https://www.theblockcrypto.com/post/46408/little-known-asian-crypto-exchange-vindax-got-hacked-lost-half-a-million-usd-worth-of-tokens"><u>asking for funds</u></a>&nbsp;&nbsp;.&nbsp;It is unclear whether any of the projects accepted the proposal or not.&nbsp;</p>
+In response VinDAX, he sent an email to the projects [affected by the theft](https://www.theblockcrypto.com/post/46408/little-known-asian-crypto-exchange-vindax-got-hacked-lost-half-a-million-usd-worth-of-tokens) asking for funds. It is unclear whether any of the projects accepted the proposal or not.
 
 
 
@@ -230,7 +229,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 30 million US dollars.</code></p>
+**The value of lost assets: 30 million US dollars.
 
 
 
@@ -238,11 +237,11 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>The Japanese exchange&nbsp;<code>Bitpoint</code>noticed an error in its outgoing money transfer system and immediately suspended its services.&nbsp;However, it was too late.&nbsp;Due to a security breach, hackers&nbsp;&nbsp;<a href="https://www.theverge.com/2019/7/12/20691700/bitpoint-hack-bitcoin-ripple-cryptocurrency-exchange-stolen-funds"><u>stole over $&nbsp;</u><em><u>30 million worth</u></em></a>&nbsp;of cryptocurrencies &nbsp;.</p>
+The Japanese exchange Bitpoint noticed an error in its outgoing money transfer system and immediately suspended its services. However, it was too late. Due to a security breach, [hackers](https://www.theverge.com/2019/7/12/20691700/bitpoint-hack-bitcoin-ripple-cryptocurrency-exchange-stolen-funds) stole over 30 million worth of cryptocurrencies.
 
 
 
-<p>Luckily,&nbsp;&nbsp;<a href="https://cointelegraph.com/news/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto"><u>Bitpoint was able to recover $2.3 million in</u></a>&nbsp;&nbsp;stolen cryptocurrencies from overseas exchanges.&nbsp;<code>Bitpoint</code>stated that it would&nbsp;&nbsp;<a href="https://cointelegraph.com/news/bitpoint-hack-shows-that-regulators-scrutiny-does-not-equal-safety"><u>pay compensation to its users</u></a>&nbsp;&nbsp;, but did not say when this would happen.</p>
+[Luckily,](https://cointelegraph.com/news/hacked-bitpoint-exchange-finds-23m-in-stolen-crypto) Bitpoint was able to recover $2.3 million in stolen cryptocurrencies from overseas exchanges. [Bitpoint stated that it would](https://cointelegraph.com/news/bitpoint-hack-shows-that-regulators-scrutiny-does-not-equal-safety) pay compensation to its users, but did not say when this would happen.
 
 
 
@@ -254,7 +253,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p><code>The value of lost assets: 5 million US dollars.</code></p>
+**The value of lost assets: 5 million US dollars.
 
 
 
@@ -262,7 +261,7 @@ Cryptocurrency exchange PolyNetwork, [due to](https://coinmarketcap.com/alexandr
 
 
 
-<p>The Singapore exchange&nbsp;<code>Bitrue</code>has suffered a major&nbsp;&nbsp;<a href="https://www.investopedia.com/terms/h/hot-wallet.asp"><u>hot wallet</u></a>&nbsp;hack &nbsp;.&nbsp;Only&nbsp;&nbsp;<a href="https://cointelegraph.com/news/singaporean-exchange-bitrue-gets-hacked-losing-5-million-in-xrp-cardano"><u>90 Bitrue users were affected</u></a>&nbsp;&nbsp;, but the stolen cryptocurrency was worth nearly $&nbsp;<em>5 million</em>&nbsp;.&nbsp;Luckily for users who lost their funds,&nbsp;<code>Bitrue</code>he assured them that&nbsp;&nbsp;<a href="https://twitter.com/BitrueOfficial/status/1144066874147131392"><u>they would be fully refunded</u></a>&nbsp;&nbsp;.&nbsp;</p>
+The Singapore exchange [Bitrue has suffered a major](https://www.investopedia.com/terms/h/hot-wallet.asp) hot wallet hack. [Only](https://cointelegraph.com/news/singaporean-exchange-bitrue-gets-hacked-losing-5-million-in-xrp-cardano) 90 Bitrue users were affected but the stolen cryptocurrency was worth nearly $5 million. Luckily for users who lost their funds, [Bitrue assured them that](https://twitter.com/BitrueOfficial/status/1144066874147131392) they would be fully refunded.
 
 
 
