@@ -71,7 +71,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 | Oct 2022 | $21m | Transit Swap | [Transit Swap loses over $21M due to code bug exploit, issues apology](https://cointelegraph.com/news/transit-swap-loses-over-21m-due-to-internal-bug-hack-issues-apology) |
 
 
-<img src="https://user-images.githubusercontent.com/114734003/206695725-91dc06e4-05af-4d58-88bd-d10bf9ae52dc.png" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/114734003/206696915-06ee54a8-cd26-4d44-8094-653c3a67b0a1.png" width="500" height="350">
 
 <h2>October 2022 – Binance</h2>
 
