@@ -1159,6 +1159,5 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 <p>Hackers will never stop attacking cryptocurrency exchanges as long as they remain profitable.&nbsp;While a good cryptocurrency exchange will have several security measures in place.&nbsp;Do your due diligence when signing up for an exchange to make sure you don’t become a victim.</p>
 
-![image](https://user-images.githubusercontent.com/114734003/206686773-3053ff1d-9fbe-4b45-b21c-ce4a5a3e4c1a.png)
-
+<img src="https://user-images.githubusercontent.com/114734003/206697212-75ef9b77-7502-423d-8669-8e6411ac934c.png" width="500" height="350">
 
