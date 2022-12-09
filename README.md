@@ -3,7 +3,7 @@
 
 **Cryptocurrency hacks list from January 2021 - updated weekly.**
 
-October 2022 has seen a surge in hacking activity, with the total hacked value for the month nearly reaching $718 million, according to blockchain analytics firm Chainalysis. The firm has labeled October as "the biggest month in the biggest year ever for hacking activity". So far, 11 different hacks on decentralized finance (DeFi) protocols have been reported, with cross-chain bridges being the biggest target for hackers.
+October 2022 saw a surge in hacking activity, with the total hacked value for the month nearly reaching $718 million, according to blockchain analytics firm Chainalysis. The firm has labeled October as "the biggest month in the biggest year ever for hacking activity". So far, 11 different hacks on decentralized finance (DeFi) protocols have been reported, with cross-chain bridges being the biggest target for hackers.
 
 Three bridge hacks this month accounted for 82% of October’s losses, with the largest being a $100 million exploit on the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
 
