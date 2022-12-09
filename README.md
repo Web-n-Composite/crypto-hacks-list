@@ -70,7 +70,8 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 | Oct 2022 | $90m | Mirror Protocol | [DeFi Hack Worth $90M Unveiled Seven Months Following The Theft](https://www.thecoinrepublic.com/2022/05/31/defi-hack-worth-90m-unveiled-seven-months-following-the-theft/) |
 | Oct 2022 | $21m | Transit Swap | [Transit Swap loses over $21M due to code bug exploit, issues apology](https://cointelegraph.com/news/transit-swap-loses-over-21m-due-to-internal-bug-hack-issues-apology) |
 
-![image](https://user-images.githubusercontent.com/114734003/206473115-8060c528-688b-450b-b9bd-8e80d1fab4f0.png)
+
+<img src="https://user-images.githubusercontent.com/114734003/206695725-91dc06e4-05af-4d58-88bd-d10bf9ae52dc.png" width="500" height="350">
 
 <h2>October 2022 – Binance</h2>
 
@@ -80,7 +81,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-![image](https://user-images.githubusercontent.com/114734003/206475329-f70035d8-a7ea-4a0e-8373-79bf1fb45b30.png)
+![image](https://user-images.githubusercontent.com/114734003/206696421-4eab2885-989a-462b-b470-0a3ce0772256.png)
 
 
 <p>The cryptocurrency exchange&nbsp;<code>Binance</code>temporarily suspended its blockchain network after hackers stole&nbsp;$&nbsp;<em>570 million worth of&nbsp;</em><a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener">BNB tokens</a>&nbsp;.<em></em></p>
