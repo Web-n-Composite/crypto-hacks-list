@@ -129,7 +129,7 @@ Fortunately, this story has a happy ending. The team [Poly Network](https://twit
 
 
 
-**The value of lost assets: 280 million US dollars.
+**The value of lost assets: 280 million US dollars.**
 
 
 
@@ -157,7 +157,7 @@ With a skillful approach to resolving the incident KuCoin, she earned the respec
 
 
 
-**The value of lost assets: 70 thousand US dollars.
+**The value of lost assets: 70 thousand US dollars.**
 
 
 
@@ -181,7 +181,7 @@ The Italian exchange Altsbit only existed for a few months before it was hacked.
 
 
 
-**The value of lost assets: 51 million US dollars.
+**The value of lost assets: 51 million US dollars.**
 
 
 
@@ -205,7 +205,7 @@ However, [the story does not end there](https://cointelegraph.com/news/upbit-hac
 
 
 
-**The value of lost assets: 500 thousand US dollars.
+**The value of lost assets: 500 thousand US dollars.**
 
 
 
@@ -229,7 +229,7 @@ In response VinDAX, he sent an email to the projects [affected by the theft](htt
 
 
 
-**The value of lost assets: 30 million US dollars.
+**The value of lost assets: 30 million US dollars.**
 
 
 
@@ -253,7 +253,7 @@ The Japanese exchange Bitpoint noticed an error in its outgoing money transfer s
 
 
 
-**The value of lost assets: 5 million US dollars.
+**The value of lost assets: 5 million US dollars.**
 
 
 
@@ -273,7 +273,7 @@ The Singapore exchange [Bitrue has suffered a major](https://www.investopedia.co
 
 
 
-<p><code>The value of lost assets: 10 million US dollars.</code></p>
+**The value of lost assets: 10 million US dollars.**
 
 
 
@@ -281,7 +281,7 @@ The Singapore exchange [Bitrue has suffered a major](https://www.investopedia.co
 
 
 
-<p>A cryptocurrency exchange&nbsp;<code>GateHub</code>&nbsp;based in the UK and Slovenia suffered a major hack when hackers&nbsp;&nbsp;<a href="https://www.theblockcrypto.com/linked/26370/hackers-stole-as-much-as-10m-in-ripple-in-a-gatehub-hack"><u>stole $10 million worth of Ripple</u></a>&nbsp;&nbsp;.&nbsp;While it is still unclear exactly how the hackers gained access to users’ funds, the&nbsp;&nbsp;<a href="https://cointelegraph.com/news/report-nearly-10-million-in-xrp-stolen-in-gatehub-hack"><u>criminals managed to gain access to the encrypted secret keys</u></a>&nbsp;&nbsp;.&nbsp;So far,&nbsp;<code>GateHub</code>some progress has been made in recovering&nbsp;&nbsp;<a href="https://www.fxstreet.com/cryptocurrencies/news/gatehub-provides-update-on-the-10-million-xrp-hack-201906131706"><u>the stolen funds</u></a>&nbsp;&nbsp;.</p>
+A cryptocurrency exchange GateHub based in the UK and Slovenia suffered a major hack [when hackers](https://www.theblockcrypto.com/linked/26370/hackers-stole-as-much-as-10m-in-ripple-in-a-gatehub-hack) stole $10 million worth of Ripple. While it is still unclear exactly how the hackers gained access to [users’ funds, the](https://cointelegraph.com/news/report-nearly-10-million-in-xrp-stolen-in-gatehub-hack) criminals managed to gain access to the encrypted secret keys. So far GateHub some progress has been made [in recovering](https://www.fxstreet.com/cryptocurrencies/news/gatehub-provides-update-on-the-10-million-xrp-hack-201906131706) the stolen funds.
 
 
 
@@ -293,7 +293,7 @@ The Singapore exchange [Bitrue has suffered a major](https://www.investopedia.co
 
 
 
-<p><code>The value of lost assets: 40 million US dollars.</code></p>
+**The value of lost assets: 40 million US dollars.**
 
 
 
@@ -301,7 +301,7 @@ The Singapore exchange [Bitrue has suffered a major](https://www.investopedia.co
 
 
 
-<p>Cryptocurrency exchange&nbsp;<code>Binance</code>&nbsp;&nbsp;affected by approximately the amount&nbsp;<code>7000 BTC.</code>Hackers still managed to use phishing and malware to hack Binance.&nbsp;The attackers escaped with $&nbsp;<em>40 million</em>&nbsp;worth of bitcoins .&nbsp;As a result&nbsp;&nbsp;<a href="https://techcrunch.com/2019/05/10/binance-security-hack/"><u>, Binance has promised to increase its security</u></a>&nbsp;&nbsp;, but users are understandably wary.</p>
+Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. Hackers still managed to use phishing and malware to hack Binance. The attackers escaped with $40 million worth of bitcoins. [As a result](https://techcrunch.com/2019/05/10/binance-security-hack), Binance has promised to increase its security, but users are understandably wary.
 
 
 
