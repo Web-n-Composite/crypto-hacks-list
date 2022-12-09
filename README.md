@@ -79,19 +79,18 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 <h2>October 2022 – Binance</h2>
 
 
-
-<p><code>The value of lost assets: 570 million US dollars.</code></p>
+**The value of lost assets: 570 million US dollars.**
 
 
 
 ![image](https://user-images.githubusercontent.com/114734003/206696766-3874d011-1271-4d52-ae5f-a09fdd6102e5.png)
 
 
-<p>The cryptocurrency exchange&nbsp;<code>Binance</code>temporarily suspended its blockchain network after hackers stole&nbsp;$&nbsp;<em>570 million worth of&nbsp;</em><a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener">BNB tokens</a>&nbsp;.<em></em></p>
+<p>The cryptocurrency exchange&nbsp Binance temporarily suspended its blockchain network after hackers stole&nbsp;$&nbsp;<em>570 million worth of&nbsp;</em><a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener">BNB tokens</a>&nbsp;.<em></em></p>
 
 
 
-<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked&nbsp;<code>BNB</code>, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called cross-chain bridges are tools that allow you to transfer tokens from one blockchain to another.</p>
+<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked **BNB**, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called cross-chain bridges are tools that allow you to transfer tokens from one blockchain to another.</p>
 
 
 
