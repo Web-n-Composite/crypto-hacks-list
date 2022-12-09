@@ -90,7 +90,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked **BNB**, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called cross-chain bridges are tools that allow you to transfer tokens from one blockchain to another.</p>
+<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked BNB, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called cross-chain bridges are tools that allow you to transfer tokens from one blockchain to another.</p>
 
 
 
@@ -102,7 +102,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-<p><code>The value of lost assets: 610 million US dollars.</code></p>
+**The value of lost assets: 610 million US dollars.**
 
 
 
@@ -110,7 +110,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-<p>Cryptocurrency exchange&nbsp;<code>PolyNetwork</code>, due to&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/cross-chain" target="_blank" rel="noreferrer noopener"><u>the cross-chain protocol</u>&nbsp;</a>which was compatible for&nbsp;<code>Bitcoin (BTC)</code>,,&nbsp;<code>Ethereum (ETH)</code>and&nbsp;<code>Neo (NEO)</code>other&nbsp;<em>cryptocurrencies.&nbsp;</em>The cross-chain transaction feature&nbsp;<code>PolyNetwork</code>allows users to transfer assets between different blockchains without having to convert them through exchanges.</p>
+<p>Cryptocurrency exchange _PolyNetwork_, due to&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/cross-chain" target="_blank" rel="noreferrer noopener"><u>the cross-chain protocol</u>&nbsp;</a>which was compatible for&nbsp;<code>Bitcoin (BTC)</code>,,&nbsp;<code>Ethereum (ETH)</code>and&nbsp;<code>Neo (NEO)</code>other&nbsp;<em>cryptocurrencies.&nbsp;</em>The cross-chain transaction feature&nbsp;<code>PolyNetwork</code>allows users to transfer assets between different blockchains without having to convert them through exchanges.</p>
 
 
 
