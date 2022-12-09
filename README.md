@@ -104,7 +104,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/af29ce0ce019daa8efece7501ffb2e8b.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206680936-d717b0ef-aeac-4cff-8aa2-899b6d5fd184.png)
 
 
 
@@ -136,7 +136,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/5028d967d07541a21570cf9f8078789c.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681034-55c9cafc-1140-456c-bc0e-60100d4926d4.png)
 
 
 
@@ -164,7 +164,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/30ed025e0eeceea5c72c3b2f6a162d7f.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681202-681ccb8b-0f2b-4603-9b79-771022b0b310.png)
 
 
 
@@ -188,7 +188,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/11231e5d2b2574c766ca501754fe83fd.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681281-cfa44410-3c44-4d2f-8332-0505d2451df6.png)
 
 
 
@@ -212,7 +212,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/e6351f8bbbdb74272c3219cdc5ccf3f5.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681351-38c4e8da-1fca-4530-83f4-425ea1725ab8.png)
 
 
 
@@ -236,7 +236,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/0da314f780f86bae0b905494991e0f6b.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681435-c9fb1428-dc05-4785-8bb3-50d8b91e5ff2.png)
 
 
 
@@ -260,7 +260,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/2783effd2eb4decf5f1e816be4564584.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681570-874a088b-be8c-4a52-92d3-ce7e921da9e8.png)
 
 
 
@@ -280,7 +280,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/8e4bb945312f8f27e246387f8db36869.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681656-7fcd42ce-7498-43d1-a7c7-5b7720199a1f.png)
 
 
 
@@ -300,7 +300,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/d3f8a98fe717ae50d5a1b402a39e6421.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681733-2f75f30b-52cf-41c0-916f-a5006eaed78a.png)
 
 
 
@@ -324,7 +324,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/6b82e4bfdd74e40bdb5b5e30f3dece8b.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681768-091978dd-02f1-467c-b808-53e556e00210.png)
 
 
 
@@ -348,8 +348,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/ac400705c4c935146d4d6f95ca988b85.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
-
+![image](https://user-images.githubusercontent.com/114734003/206681813-5e0fe727-f6fe-4101-b92e-ea1ca275d9c9.png)
 
 
 <p>A South Korean cryptocurrency exchange&nbsp;<code>Bithumb</code>has been the victim of alleged insider work.&nbsp;It all started with a suspicious withdrawal, and the&nbsp;&nbsp;<a href="https://www.coindesk.com/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job"><u>exchange immediately suspended all withdrawals</u></a>&nbsp;&nbsp;on its platform, but it was too late.&nbsp;Who carried out the break-in is still unknown, but since there is no evidence of outside interference, many suspect that the funds were stolen by an employee&nbsp;<code>Bithumb</code>.</p>
@@ -368,7 +367,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/8f23c085e1e6f67a2e04f2206339d9ef.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681853-a6af6f1d-ec46-48d8-a6c3-6cfe2dbf2067.png)
 
 
 
@@ -392,7 +391,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/1356fb295d14683683041a0db0fccb40.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206681943-f705e7f3-0000-4b17-a7c8-7ac5ab7b6a8e.png)
 
 
 
@@ -416,7 +415,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/731b87bc6ab463fb09f9e497cd9d4d7a.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682021-1a589262-5d35-4a30-b37d-43338277bc20.png)
 
 
 
@@ -436,7 +435,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/5359136dc211fa8fef752792ba314e12.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682070-fcdba00e-dc59-4144-a3b9-bcf161213bf0.png)
 
 
 
@@ -468,7 +467,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/bee4baad03d95d336f54635aca20e2de.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682142-d2446fd8-3f2d-4972-9e8f-70b883e1af24.png)
 
 
 
@@ -508,7 +507,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/74e606b859f6da163f62bf0113229828.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682213-f1aa297e-fed5-49d7-b6d9-f56f45618d82.png)
 
 
 
@@ -536,7 +535,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/4f93961601cafb985e385e9e15f5751a.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682304-b217116c-22dd-4ea5-9872-60aabd6ded68.png)
 
 
 
@@ -556,7 +555,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/a6e1224889c8747cbf8bf4cb01ebec8f.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682594-b41fa5da-bf30-4d22-986c-011ddb11d030.png)
 
 
 
@@ -576,7 +575,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/ac400705c4c935146d4d6f95ca988b85.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" title=""></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682644-13133909-77ac-4c5d-bd23-1e9f11c672f3.png)
 
 
 
@@ -596,7 +595,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/d91d025ca78f8b433debef29a5da4a9a.jpg" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682703-b3973ee2-5905-4970-be91-ac4f4c10453d.png)
 
 
 
@@ -624,7 +623,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/412682d7ff779e55473ff9187737172d.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682776-aa7cf7cc-d975-406e-84de-64744676ba4f.png)
 
 
 
@@ -644,7 +643,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/eb907ff8cc81bbfa5c5d83f23ea5e3d0.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682832-a4000c67-2e43-44a1-9b2d-f805c8e94e22.png)
 
 
 
@@ -664,7 +663,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/66733f3ce4eee386fc4552478a158790.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206682886-2ab216a8-4280-424c-9206-a9e273e53ef5.png)
 
 
 
@@ -684,8 +683,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/d65e2d7a5f2a50b29ee7926b655921d3.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
-
+![image](https://user-images.githubusercontent.com/114734003/206682926-6f7ed445-f113-43b1-8c3f-01cdba4c1fac.png)
 
 
 <p><code>Coincheck</code>was the leading exchange in Japan, but the hack showed how insecure the platform was.&nbsp;The hackers managed to spread the virus via email, allowing them to steal the private keys.&nbsp;After that, it was surprisingly easy, as&nbsp;&nbsp;<a href="https://blockonomi.com/coincheck-hack/"><u>Coincheck did not use smart contracts or multi-signatures, and all the coins were stored in one wallet</u></a>&nbsp;&nbsp;.&nbsp;The total value of the stolen cryptocurrency is one of the highest ever, with an estimated value of&nbsp;<em>$533 million</em>&nbsp;at the time of the hack .&nbsp;</p>
@@ -708,8 +706,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/0ab66da804b9b54d2e8e8a058ea6921c.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
-
+![image](https://user-images.githubusercontent.com/114734003/206682965-76b74c7c-ae7e-46e9-86cd-7203066fcc07.png)
 
 
 <p><code>NiceHash</code>is a cryptocurrency mining market that allows miners to rent out their hashrate to others.&nbsp;<a href="https://www.coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked"><u>Their payment system was compromised</u></a>&nbsp;&nbsp;, resulting in the content of users’ bitcoin wallets being stolen.&nbsp;The exact amount stolen has never been confirmed&nbsp;<code>NiceHash</code>, but it is believed to be&nbsp;<code>4736 биткойнов</code>worth about&nbsp;<em>$62 million</em>&nbsp;at the time .&nbsp;This story ends on a happy note as&nbsp;&nbsp;<a href="https://news.bitcoin.com/nicehash-returns-60-of-coins-stolen-in-the-hack/"><u>NiceHash managed to return</u></a><code>60%</code>&nbsp;the stolen funds to&nbsp;&nbsp;users .</p>
@@ -728,7 +725,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/97f8a2596801a01cdd03d1e33e2990d8.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683028-f0088651-6335-4701-947d-fb772710490e.png)
 
 
 
@@ -748,7 +745,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/ac400705c4c935146d4d6f95ca988b85.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" title=""></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683059-a0140e3b-fa3f-4c3b-a795-1430700a5d4a.png)
 
 
 
@@ -768,7 +765,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/3fd76ae8dea208a7607b334a881e59d1.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683097-97bfb415-1915-4f9e-8ff2-ef4c0f642c13.png)
 
 
 
@@ -788,7 +785,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/0ad0f451d66ce3b1e6eaf380a9692fed.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683145-5ff1d9e6-ea58-4d7b-9fc9-7f8500d58553.png)
 
 
 
@@ -808,7 +805,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/7dd7cd43079334c40dc86c056ccaf10d.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683187-dd8d0396-a2e6-437b-985d-f3e785da76d8.png)
 
 
 
@@ -828,7 +825,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/0412a01f5d239dd003bb6128f18ce818.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683245-994381bd-276a-4043-b053-23e2ab475d03.png)
 
 
 
@@ -848,7 +845,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/4679f706d1a448a7f047587343d38b2f.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683304-e909bbc1-1c2c-4144-9db8-8b30459fb905.png)
 
 
 
@@ -868,7 +865,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/db754cd66992a9b44096d0fb85c2e7ae.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683367-39a7dbab-d51b-4e03-a0a5-c58352ea7b14.png)
 
 
 
@@ -888,7 +885,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/7972b6bcbb0d6005482ef10330e0c7e0.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683401-ba43aeb1-8f43-4e7e-90cd-eee6a5dd25b4.png)
 
 
 
@@ -908,7 +905,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/dbd9ccec5fd041da06688dc726b9240b.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683453-eb068be6-4818-4bd9-aaaf-71111efbd28b.png)
 
 
 
@@ -928,7 +925,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/d00061ec654969df47713342f74c9fa1.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683517-85f32fe3-83c9-4e2a-9dcf-aa295b2e997f.png)
 
 
 
@@ -956,7 +953,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/dd56c2aba01e429b7218c38ea096c74f.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683600-bb35c3c2-8218-4c30-a628-022e0a40e1f1.png)
 
 
 
@@ -976,7 +973,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/d00061ec654969df47713342f74c9fa1.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" title=""></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683694-4e6c754a-02d1-45ad-b31a-1602b4c07f1e.png)
 
 
 
@@ -996,7 +993,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/5d99b244e275f4c5c7bc9f6a141ce94d.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683772-5f1e1ccc-132b-47b1-8399-476a15b7279a.png)
 
 
 
@@ -1024,7 +1021,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/c42b2a70f10a77aab0c0f638a845ffe4.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683812-f831108a-2103-4f15-93ff-3d7b82a7dc02.png)
 
 
 
@@ -1044,7 +1041,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/44312877bafc5cdf320cf31db95d890e.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683856-da0ef00e-8f27-46aa-b923-b1c322b33675.png)
 
 
 
@@ -1064,7 +1061,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/473fc9c1d11568d6c1c683529fdce172.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683893-234e1d57-857e-4b7a-9d7b-24a00fec421b.png)
 
 
 
@@ -1084,7 +1081,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/1f382a79fae189d4ad63552beb9a72bd.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683950-b62dacf2-97a4-4a04-9aac-0e096e77535f.png)
 
 
 
@@ -1104,7 +1101,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/7748067a7ff68d109de24e73f8da57e6.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206683997-3f0138b3-7d3e-4183-bc92-5f50335290a5.png)
 
 
 
@@ -1124,7 +1121,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/53baabf49194f317e94e0ce5a8fe2d65.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]"></figure>
+![image](https://user-images.githubusercontent.com/114734003/206684049-234e73b5-060b-405a-ae4b-e47bc89e145c.png)
 
 
 
@@ -1144,7 +1141,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/5d99b244e275f4c5c7bc9f6a141ce94d.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" title=""></figure>
+![image](https://user-images.githubusercontent.com/114734003/206684076-bee8c813-3bd4-4f5c-b185-0682aaf59448.png)
 
 
 
@@ -1161,36 +1158,6 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 <p>Hackers will never stop attacking cryptocurrency exchanges as long as they remain profitable.&nbsp;While a good cryptocurrency exchange will have several security measures in place.&nbsp;Do your due diligence when signing up for an exchange to make sure you don’t become a victim.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity">
-
-
-
-<p><strong><a href="https://github.com/demining/List-of-Cryptocurrency-Exchange-Hacks" target="_blank" rel="noreferrer noopener">GitHub</a></strong></p>
-
-
-
-<p><strong><a href="https://t.me/cryptodeeptech" target="_blank" rel="noreferrer noopener">Telegram: https://t.me/cryptodeeptech</a></strong></p>
-
-
-
-<p><strong><a href="https://youtu.be/4UmIrnKFg_o" target="_blank" rel="noreferrer noopener">Video: https://youtu.be/4UmIrnKFg_o</a></strong></p>
-
-
-
-<p><strong><a href="https://cryptodeeptech.ru/exchange-hacks" target="_blank" rel="noreferrer noopener">Source: https://cryptodeeptech.ru/exchange-hacks</a></strong></p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity">
-
-
-
-<figure class="wp-block-image"><img src="./Full list of cryptocurrency exchange hacks 2011 - 2022 - CRYPTO DEEP TECH_files/022-1024x576.png" alt="Full list of cryptocurrency exchange hacks [ 2011 - 2022 ]" class="wp-image-1489"></figure>
-
-
 
 
 
