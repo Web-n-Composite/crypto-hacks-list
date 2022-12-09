@@ -72,9 +72,10 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 | Oct 2022 | $90m | Mirror Protocol | [DeFi Hack Worth $90M Unveiled Seven Months Following The Theft](https://www.thecoinrepublic.com/2022/05/31/defi-hack-worth-90m-unveiled-seven-months-following-the-theft/) |
 | Oct 2022 | $21m | Transit Swap | [Transit Swap loses over $21M due to code bug exploit, issues apology](https://cointelegraph.com/news/transit-swap-loses-over-21m-due-to-internal-bug-hack-issues-apology) |
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/114734003/206696915-06ee54a8-cd26-4d44-8094-653c3a67b0a1.png" width="500" height="350">
-
+<p>
+  
 <h2>October 2022 – Binance</h2>
 
 
@@ -1161,5 +1162,6 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 <p>Hackers will never stop attacking cryptocurrency exchanges as long as they remain profitable.&nbsp;While a good cryptocurrency exchange will have several security measures in place.&nbsp;Do your due diligence when signing up for an exchange to make sure you don’t become a victim.</p>
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/114734003/206697212-75ef9b77-7502-423d-8669-8e6411ac934c.png" width="500" height="350">
-
+<p>
