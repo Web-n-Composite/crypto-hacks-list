@@ -79,9 +79,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 
 
 
-![image](https://user-images.githubusercontent.com/114734003/206475329-f70035d8-a7ea-4a0e-8373-79bf1fb45b30.png)
-Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcaption>Binance Smart Chain – BNB Chain</figcaption></figure>
-
+![image](https://user-images.githubusercontent.com/114734003/206475329-f70035d8-a7ea-4a0e-8373-79bf1fb45b30.png
 
 
 <p>The cryptocurrency exchange&nbsp;<code>Binance</code>temporarily suspended its blockchain network after hackers stole&nbsp;$&nbsp;<em>570 million worth of&nbsp;</em><a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener">BNB tokens</a>&nbsp;.<em></em></p>
