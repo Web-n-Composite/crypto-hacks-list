@@ -82,7 +82,7 @@ Three bridge hacks this month accounted for 82% of October’s losses, with the 
 ![image](https://user-images.githubusercontent.com/114734003/206696766-3874d011-1271-4d52-ae5f-a09fdd6102e5.png)
 
 
-The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole[570 million worth of](https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html)target BNB tokens.
+The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole [570 million worth of](https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html) target BNB tokens.
 
 
 
