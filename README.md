@@ -88,7 +88,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked&nbsp;<code>BNB</code>, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called&nbsp;<code>кроссчейн-мосты</code>are tools that allow you to transfer tokens from one blockchain to another.</p>
+<p>Binance said late on Thursday&nbsp;<em>(Oct 6)</em>&nbsp;that a bridge connected to its token chain had been attacked&nbsp;<code>BNB</code>, allowing hackers to move&nbsp;&nbsp;<a href="https://www.cnbc.com/quotes/BNB.CM=/" target="_blank" rel="noreferrer noopener"><u>BNB.&nbsp;</u></a>off-chain tokens.&nbsp;The so-called cross-chain bridges are tools that allow you to transfer tokens from one blockchain to another.</p>
 
 
 
@@ -108,7 +108,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>Cryptocurrency exchange&nbsp;<code>PolyNetwork</code>, due to&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/cross-chain" target="_blank" rel="noreferrer noopener"><u>the cross-chain protocol</u>&nbsp;</a>which was compatible for&nbsp;<code>Bitcoin (BTC)</code>,,&nbsp;<code>Ethereum (ETH)</code>and&nbsp;<code>Neo (NEO)</code>other&nbsp;<em>cryptocurrencies.&nbsp;</em>The&nbsp;<code>кросс-чейн</code>transaction feature&nbsp;<code>PolyNetwork</code>allows users to transfer assets between different blockchains without having to convert them through exchanges.</p>
+<p>Cryptocurrency exchange&nbsp;<code>PolyNetwork</code>, due to&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/cross-chain" target="_blank" rel="noreferrer noopener"><u>the cross-chain protocol</u>&nbsp;</a>which was compatible for&nbsp;<code>Bitcoin (BTC)</code>,,&nbsp;<code>Ethereum (ETH)</code>and&nbsp;<code>Neo (NEO)</code>other&nbsp;<em>cryptocurrencies.&nbsp;</em>The cross-chain transaction feature&nbsp;<code>PolyNetwork</code>allows users to transfer assets between different blockchains without having to convert them through exchanges.</p>
 
 
 
@@ -116,7 +116,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>The hacker (or hackers) managed to find a way to trick the safe box into releasing the funds stored in it without obtaining legal permission from another blockchain.&nbsp;They took advantage of this vulnerability&nbsp;<code>10&nbsp;августа</code><a href="https://twitter.com/PolyNetwork2/status/1425073987164381196"><u>to</u></a>&nbsp;&nbsp;steal over&nbsp;&nbsp;<em>$610 million</em>&nbsp;in total .</p>
+<p>The hacker (or hackers) managed to find a way to trick the safe box into releasing the funds stored in it without obtaining legal permission from another blockchain.&nbsp;They took advantage of this vulnerability on 10th August to steal over&nbsp;&nbsp;<em>$610 million</em>&nbsp;in total .</p>
 
 
 
@@ -140,7 +140,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>Next on our list is&nbsp;&nbsp;<code>KuCoin</code>, another major crypto exchange&nbsp;<strong>that</strong>&nbsp;&nbsp;was hacked&nbsp;&nbsp;<code>25 сентября 2020 года</code>, stripping&nbsp;<em>$285 million of</em>&nbsp;user assets.&nbsp;In this case, it can be noted that the quick and accurate&nbsp;&nbsp;<a href="https://news.bitcoin.com/kucoin-boss-on-strategy-after-hack-we-chose-to-act/"><u>actions</u></a>&nbsp;&nbsp;on the part of the exchange, coupled with close cooperation with other companies in the cryptocurrency industry, allowed KuCoin to survive after the incident.</p>
+<p>Next on our list is&nbsp;&nbsp;<code>KuCoin</code>, another major crypto exchange&nbsp;<strong>that</strong>&nbsp;&nbsp;was hacked&nbsp;&nbsp;<code>25 September 2020 </code>, stripping&nbsp;<em>$285 million of</em>&nbsp;user assets.&nbsp;In this case, it can be noted that the quick and accurate&nbsp;&nbsp;<a href="https://news.bitcoin.com/kucoin-boss-on-strategy-after-hack-we-chose-to-act/"><u>actions</u></a>&nbsp;&nbsp;on the part of the exchange, coupled with close cooperation with other companies in the cryptocurrency industry, allowed KuCoin to survive after the incident.</p>
 
 
 
@@ -152,7 +152,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>With a skillful approach to resolving the incident&nbsp;<code>KuCoin</code>, she earned the respect of customers and rightfully ranked sixth among the leading cryptocurrency exchanges with a&nbsp;&nbsp;<a href="https://coinmarketcap.com/rankings/exchanges/"><u>daily trading volume of</u></a>&nbsp;<em>&nbsp;about $ 1.92 billion</em>&nbsp;as of&nbsp;<code>на август 2021 года</code>.</p>
+<p>With a skillful approach to resolving the incident&nbsp;<code>KuCoin</code>, she earned the respect of customers and rightfully ranked sixth among the leading cryptocurrency exchanges with a&nbsp;&nbsp;<a href="https://coinmarketcap.com/rankings/exchanges/"><u>daily trading volume of</u></a>&nbsp;<em>&nbsp;about $ 1.92 billion</em>&nbsp;as of August 2021</code>.</p>
 
 
 
@@ -308,7 +308,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>It appears that customer data may also have been stolen.&nbsp;In August&nbsp;<code>2019 год</code>, someone began to share information about checking customers from&nbsp;<code>Binance</code>on the channel&nbsp;<code>Telegram</code>.&nbsp;It is claimed that this data was also taken during the hack and that&nbsp;&nbsp;<a href="https://www.coindesk.com/binance-kyc-issue"><u>up to 60,000 users could be affected</u></a>&nbsp;&nbsp;.&nbsp;</p>
+<p>It appears that customer data may also have been stolen.&nbsp;In August 2019, someone began to share information about checking customers from&nbsp;<code>Binance</code>on the channel&nbsp;<code>Telegram</code>.&nbsp;It is claimed that this data was also taken during the hack and that&nbsp;&nbsp;<a href="https://www.coindesk.com/binance-kyc-issue"><u>up to 60,000 users could be affected</u></a>&nbsp;&nbsp;.&nbsp;</p>
 
 
 
@@ -579,7 +579,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>Unfortunately, hacking problems&nbsp;<code>Bithumb</code>did not start&nbsp;<code>в 2019 году</code>.&nbsp;The exchange was also hacked&nbsp;<code>в 2018 году</code>(and you will see them again on our list), with the hackers stealing a significant amount of&nbsp;<code>Ripple</code>.&nbsp;This hack appears to have been orchestrated by a group of North Korean hackers known as the&nbsp;&nbsp;<a href="https://www.zdnet.com/article/north-korea-blamed-for-two-cryptocurrency-scams-five-trading-platform-hacks/"><u>Lazarus Group</u></a>&nbsp;&nbsp;, who have been responsible for a number of cryptocurrency hacks over the years.&nbsp;Luckily for users&nbsp;<code>Bithumb</code>,&nbsp; the&nbsp;<a href="https://www.zdnet.com/article/south-korean-crypto-exchange-bithumb-hacked/"><u>exchange promised to return all stolen funds</u></a>&nbsp;&nbsp;.</p>
+<p>Unfortunately, hacking problems&nbsp;<code>Bithumb</code>did not start&nbsp;<code>в 2019 году</code>.&nbsp;The exchange was also hacked in 2018, (and you will see them again on our list), with the hackers stealing a significant amount of&nbsp;<code>Ripple</code>.&nbsp;This hack appears to have been orchestrated by a group of North Korean hackers known as the&nbsp;&nbsp;<a href="https://www.zdnet.com/article/north-korea-blamed-for-two-cryptocurrency-scams-five-trading-platform-hacks/"><u>Lazarus Group</u></a>&nbsp;&nbsp;, who have been responsible for a number of cryptocurrency hacks over the years.&nbsp;Luckily for users&nbsp;<code>Bithumb</code>,&nbsp; the&nbsp;<a href="https://www.zdnet.com/article/south-korean-crypto-exchange-bithumb-hacked/"><u>exchange promised to return all stolen funds</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -587,7 +587,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<h3>Май 2018 – Bitcoin Gold</h3>
+<h3>May 2018 – Bitcoin Gold</h3>
 
 
 
@@ -709,7 +709,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 ![image](https://user-images.githubusercontent.com/114734003/206682965-76b74c7c-ae7e-46e9-86cd-7203066fcc07.png)
 
 
-<p><code>NiceHash</code>is a cryptocurrency mining market that allows miners to rent out their hashrate to others.&nbsp;<a href="https://www.coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked"><u>Their payment system was compromised</u></a>&nbsp;&nbsp;, resulting in the content of users’ bitcoin wallets being stolen.&nbsp;The exact amount stolen has never been confirmed&nbsp;<code>NiceHash</code>, but it is believed to be&nbsp;<code>4736 биткойнов</code>worth about&nbsp;<em>$62 million</em>&nbsp;at the time .&nbsp;This story ends on a happy note as&nbsp;&nbsp;<a href="https://news.bitcoin.com/nicehash-returns-60-of-coins-stolen-in-the-hack/"><u>NiceHash managed to return</u></a><code>60%</code>&nbsp;the stolen funds to&nbsp;&nbsp;users .</p>
+<p><code>NiceHash</code>is a cryptocurrency mining market that allows miners to rent out their hashrate to others.&nbsp;<a href="https://www.coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked"><u>Their payment system was compromised</u></a>&nbsp;&nbsp;, resulting in the content of users’ bitcoin wallets being stolen.&nbsp;The exact amount stolen has never been confirmed&nbsp;<code>NiceHash</code>, but it is believed to be4736 Bitcoin worth about&nbsp;<em>$62 million</em>&nbsp;at the time .&nbsp;This story ends on a happy note as&nbsp;&nbsp;<a href="https://news.bitcoin.com/nicehash-returns-60-of-coins-stolen-in-the-hack/"><u>NiceHash managed to return</u></a><code>60%</code>&nbsp;the stolen funds to&nbsp;&nbsp;users .</p>
 
 
 
@@ -729,7 +729,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p><code>Youbit</code>(formerly known as&nbsp;<code>Yapizon</code>) was a relatively small South Korean cryptocurrency exchange that was previously&nbsp;<code>в 2017 году</code>hacked.&nbsp;This time the hackers stole&nbsp;&nbsp;<a href="https://cryptovest.com/news/another-bitcoin-exchange-hacked-youbit-files-bankruptcy-after-losing-users-coins/"><u>17% of the exchange’s assets</u></a>&nbsp;&nbsp;.&nbsp;This was the end for&nbsp;<code>Youbit</code>, the same day they&nbsp;&nbsp;<a href="https://www.bbc.com/news/technology-42409815"><u>filed for bankruptcy .</u></a></p>
+<p><code>Youbit</code>(formerly known as&nbsp;<code>Yapizon</code>) was a relatively small South Korean cryptocurrency exchange that was previously hacked in 2017. This time the hackers stole&nbsp;&nbsp;<a href="https://cryptovest.com/news/another-bitcoin-exchange-hacked-youbit-files-bankruptcy-after-losing-users-coins/"><u>17% of the exchange’s assets</u></a>&nbsp;&nbsp;.&nbsp;This was the end for&nbsp;<code>Youbit</code>, the same day they&nbsp;&nbsp;<a href="https://www.bbc.com/news/technology-42409815"><u>filed for bankruptcy .</u></a></p>
 
 
 
@@ -957,7 +957,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>A Trojan virus was inserted into&nbsp;<code>Crypts</code>y’s code by a hacker&nbsp;<code>Lucky7Coin</code>.&nbsp;As a result&nbsp;<code>Lucky7Coin</code>&nbsp;<em>(and possibly others)</em>&nbsp;have left with a staggering amount of cryptocurrencies.&nbsp;Owner&nbsp;<code>Cryptsy</code>Paul Vernon&nbsp;&nbsp;<a href="https://www.coindesk.com/cryptsy-bankruptcy-millions-bitcoin-stolen"><u>was accused of destroying evidence and stealing bitcoins,</u></a>&nbsp;&nbsp;and the exchange declared insolvency.&nbsp;Vernon was successfully class-sued&nbsp;&nbsp;<a href="https://cointelegraph.com/news/former-bitcoin-exchange-cryptsy-ceo-ordered-to-pay-82-mln-in-class-action-lawsuit"><u>for $8.2 million</u></a>&nbsp;&nbsp;.</p>
+<p>A Trojan virus was inserted into Cryptsy’s code by a hacker&nbsp;<code>Lucky7Coin</code>.&nbsp;As a result&nbsp;<code>Lucky7Coin</code>&nbsp;<em>(and possibly others)</em>&nbsp;have left with a staggering amount of cryptocurrencies.&nbsp;Owner&nbsp;<code>Cryptsy</code>Paul Vernon&nbsp;&nbsp;<a href="https://www.coindesk.com/cryptsy-bankruptcy-millions-bitcoin-stolen"><u>was accused of destroying evidence and stealing bitcoins,</u></a>&nbsp;&nbsp;and the exchange declared insolvency.&nbsp;Vernon was successfully class-sued&nbsp;&nbsp;<a href="https://cointelegraph.com/news/former-bitcoin-exchange-cryptsy-ceo-ordered-to-pay-82-mln-in-class-action-lawsuit"><u>for $8.2 million</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -997,7 +997,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p>You might be surprised to see this name again and be associated with one of the biggest hacks of all time.&nbsp;The investigation is still ongoing and the situation is far from clear, but it looks like when it&nbsp;<code>Mt.Gox</code>was originally hacked&nbsp;<code>в 2011 году</code>, the attackers also stole some private keys.&nbsp;Hackers gained access to a large amount of bitcoins and began to empty wallets.</p>
+<p>You might be surprised to see this name again and be associated with one of the biggest hacks of all time.&nbsp;The investigation is still ongoing and the situation is far from clear, but it looks like when it&nbsp;<code>Mt.Gox</code>was originally hacked in 2011, the attackers also stole some private keys.&nbsp;Hackers gained access to a large amount of bitcoins and began to empty wallets.</p>
 
 
 
@@ -1005,7 +1005,7 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 
 
-<p><code>В ноябре 2017</code>A Russian citizen named&nbsp;&nbsp;<a href="https://cointelegraph.com/news/absolutely-bizarre-aspects-of-22-bln-btc-e-mt-gox-hacking-incident"><u>Alexander Vinnik was arrested by US authorities for a key role in laundering bitcoins</u></a>&nbsp;&nbsp;that had been stolen in a hack.&nbsp;The story isn’t over yet, but there doesn’t seem to be a clear solution in sight either.&nbsp;</p>
+<p>In 2017 a Russian citizen named&nbsp;&nbsp;<a href="https://cointelegraph.com/news/absolutely-bizarre-aspects-of-22-bln-btc-e-mt-gox-hacking-incident"><u>Alexander Vinnik was arrested by US authorities for a key role in laundering bitcoins</u></a>&nbsp;&nbsp;that had been stolen in a hack.&nbsp;The story isn’t over yet, but there doesn’t seem to be a clear solution in sight either.&nbsp;</p>
 
 
 
@@ -1159,5 +1159,6 @@ Binance Smart Chain - BNB Chain" title="Binance Smart Chain - BNB Chain"><figcap
 
 <p>Hackers will never stop attacking cryptocurrency exchanges as long as they remain profitable.&nbsp;While a good cryptocurrency exchange will have several security measures in place.&nbsp;Do your due diligence when signing up for an exchange to make sure you don’t become a victim.</p>
 
+![image](https://user-images.githubusercontent.com/114734003/206686773-3053ff1d-9fbe-4b45-b21c-ce4a5a3e4c1a.png)
 
 
