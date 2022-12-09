@@ -3,13 +3,9 @@
 
 **Cryptocurrency hacks list from January 2021 - updated weekly.**
 
-"At this rate, 2022 will likely surpass 2021 as the biggest year for hacking on record. So far, hackers have grossed over $3 billion dollars across 125 hacks" - *Chainalysis, October 12, 2022 via Twitter*
+October 2022 has seen a surge in hacking activity, with the total hacked value for the month nearly reaching $718 million, according to blockchain analytics firm Chainalysis. The firm has labeled October as "the biggest month in the biggest year ever for hacking activity". So far, 11 different hacks on decentralized finance (DeFi) protocols have been reported, with cross-chain bridges being the biggest target for hackers.
 
-Blockchain analytics firm Chainalysis has labeled October 2022 as “the biggest month in the biggest year ever for hacking activity” with the total hacked value for the month nearly reaching $718 million.
-
-Despite not being more than halfway through the month, Chainalysis said 11 different hacks on decentralized finance (DeFi) protocols had seen hundreds of millions exploited.
-
-The biggest target for hackers is cross-chain bridges, with three bridges targeted this month accounting for 82% of October’s losses. According to Chainalysis, the largest of these bridge hacks was a roughly $100 million exploit in the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
+Three bridge hacks this month accounted for 82% of October’s losses, with the largest being a $100 million exploit on the bridge between crypto exchange Binance’s BNB Smart Chain and Beacon Chain.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/114734003/206695725-91dc06e4-05af-4d58-88bd-d10bf9ae52dc.png" width="500" height="350">
@@ -86,7 +82,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 ![image](https://user-images.githubusercontent.com/114734003/206696766-3874d011-1271-4d52-ae5f-a09fdd6102e5.png)
 
 
-The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole 570 million worth of https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target BNB tokens.
+The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole [570 million worth of (https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html)] target BNB tokens.
 
 
 
