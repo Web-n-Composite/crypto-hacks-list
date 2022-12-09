@@ -86,7 +86,7 @@ The biggest target for hackers is cross-chain bridges, with three bridges target
 ![image](https://user-images.githubusercontent.com/114734003/206696766-3874d011-1271-4d52-ae5f-a09fdd6102e5.png)
 
 
-The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole 570 million worth of&nbsp;</em><a href="https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target="_blank" rel="noreferrer noopener">BNB tokens</a>&nbsp;.<em></em></
+The cryptocurrency exchange Binance temporarily suspended its blockchain network after hackers stole 570 million worth of https://www.cnbc.com/2022/10/07/more-than-100-million-worth-of-binances-bnb-token-stolen-in-another-major-crypto-hack.html" target BNB tokens.
 
 
 
