@@ -305,7 +305,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>It appears that customer data may also have been stolen.&nbsp;In August 2019, someone began to share information about checking customers from&nbsp;<code>Binance</code>on the channel&nbsp;<code>Telegram</code>.&nbsp;It is claimed that this data was also taken during the hack and that&nbsp;&nbsp;<a href="https://www.coindesk.com/binance-kyc-issue"><u>up to 60,000 users could be affected</u></a>&nbsp;&nbsp;.&nbsp;</p>
+It appears that customer data may also have been stolen. In August 2019, someone began to share information about checking customers from Binance on the channel Telegram. It is claimed that this data was also taken [during the hack and that](https://www.coindesk.com/binance-kyc-issue) up to 60,000 users could be affected.
 
 
 
@@ -317,7 +317,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 7 million US dollars.</code></p>
+**The value of lost assets: 7 million US dollars.**
 
 
 
@@ -325,11 +325,11 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>The Singapore crypto exchange&nbsp;<code>DragonEx</code>was attacked, as a result of which hackers stole $&nbsp;<em>7 million</em>&nbsp;worth of cryptocurrency .&nbsp;<a href="https://selfkey.org/the-7-most-notorious-hacking-groups-of-all-time/"><u>The North Korean hacker group Lazarus</u></a>&nbsp;claimed responsibility for this&nbsp;&nbsp;&nbsp;.&nbsp;The hackers set up a legitimate-looking fake company and&nbsp;&nbsp;<a href="https://cryptonews.com/news/north-korea-used-linkedin-telegram-in-usd-7m-crypto-exchange-5705.htm"><u>convinced DragonEx employees to download malware onto their computers</u></a>&nbsp;&nbsp;via messages&nbsp;<code>Telegram</code>and&nbsp;<code>LinkedIn</code>.</p>
+The Singapore crypto exchange DragonEx was attacked, as a result of which hackers stole $7 million worth of cryptocurrency. [The North Korean hacker group Lazarus](https://selfkey.org/the-7-most-notorious-hacking-groups-of-all-time/) claimed responsibility for this. The hackers set up a legitimate-looking [fake company and](https://cryptonews.com/news/north-korea-used-linkedin-telegram-in-usd-7m-crypto-exchange-5705.htm) convinced DragonEx employees to download malware onto their computers via message on Telegram and LinkedIn.
 
 
 
-<p><code>DragonEx</code>took full responsibility for the hack and&nbsp;&nbsp;<a href="https://tokenpost.com/Crypto-exchange-DragonEx-lost-7M-in-hack-announces-compensation-plan-1568"><u>will</u></a>&nbsp;&nbsp;refund money to those who lost funds.&nbsp;The exchange is also working with the police to see if they can recover the stolen cryptocurrency.</p>
+DragonEx took full responsibility [for the hack and](https://tokenpost.com/Crypto-exchange-DragonEx-lost-7M-in-hack-announces-compensation-plan-1568) will refund money to those who lost funds. The exchange is also working with the police to see if they can recover the stolen cryptocurrency.
 
 
 
@@ -341,14 +341,14 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 13 million US dollars.</code></p>
+**The value of lost assets: 13 million US dollars.**
 
 
 
 ![image](https://user-images.githubusercontent.com/114734003/206681813-5e0fe727-f6fe-4101-b92e-ea1ca275d9c9.png)
 
 
-<p>A South Korean cryptocurrency exchange&nbsp;<code>Bithumb</code>has been the victim of alleged insider work.&nbsp;It all started with a suspicious withdrawal, and the&nbsp;&nbsp;<a href="https://www.coindesk.com/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job"><u>exchange immediately suspended all withdrawals</u></a>&nbsp;&nbsp;on its platform, but it was too late.&nbsp;Who carried out the break-in is still unknown, but since there is no evidence of outside interference, many suspect that the funds were stolen by an employee&nbsp;<code>Bithumb</code>.</p>
+A South Korean cryptocurrency exchange Bithumb has been the victim of alleged insider work. It all started with a suspicious withdrawal, [and the exchange](https://www.coindesk.com/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job)  immediately suspended all withdrawals on its platform, but it was too late. Who carried out the break-in is still unknown, but since there is no evidence of outside interference, many suspect that the funds were stolen by an employee at Bithumb.
 
 
 
@@ -360,7 +360,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 100 million US dollars.</code></p>
+**The value of lost assets: 100 million US dollars.**
 
 
 
@@ -368,11 +368,11 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>A cryptocurrency exchange&nbsp;<code>CoinBene</code>that began to experience problems when funds began to mysteriously leave the exchange’s hot wallet.&nbsp;<a href="https://cointelegraph.com/news/analysts-claim-coinbene-transactions-recent-activity-consistent-with-exchange-hack"><u>Analysts were concerned</u></a>&nbsp;&nbsp;that the exchange was down for maintenance, a typical post-hack reaction.&nbsp;Despite&nbsp;&nbsp;<a href="https://www.ccn.com/exchange-coinbene-swears-it-wasnt-hacked-traders-fear-the-worst/"><u>assurances from CoinBene</u></a>&nbsp;&nbsp;that nothing happened, the&nbsp;&nbsp;<a href="https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack"><u>exchange was down for a month</u></a>&nbsp;&nbsp;.</p>
+A cryptocurrency exchange CoinBene that began to experience problems when funds began to mysteriously leave the exchange’s hot wallet. [Analysts were concerned](https://cointelegraph.com/news/analysts-claim-coinbene-transactions-recent-activity-consistent-with-exchange-hack) that the exchange was down for maintenance, a typical post-hack reaction. [Despite](https://www.ccn.com/exchange-coinbene-swears-it-wasnt-hacked-traders-fear-the-worst/) assurances from CoinBene that nothing happened, the [exchange was down for a month](https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack).
 
 
 
-<p>One of the strangest aspects of this hack is the unwillingness to&nbsp;<code>Coinbene</code>admit that something is wrong.&nbsp;The hack also came on the heels of a&nbsp;&nbsp;<a href="https://cointelegraph.com/news/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect"><u>Bitwise Asset Manager report that accused Coinbene of fictitious trading</u></a>&nbsp;&nbsp;to manipulate the cryptocurrency market.&nbsp;The details are still extremely vague, but it is believed that&nbsp;&nbsp;<a href="https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack"><u>more than $100 million worth of cryptocurrencies were stolen in the hack</u></a>&nbsp;&nbsp;.</p>
+One of the strangest aspects of this hack is the unwillingness of Coinbene to admit that something is wrong. [The hack also came on the heels of](https://cointelegraph.com/news/bitwise-tells-us-sec-that-95-of-volume-on-unregulated-crypto-exchanges-is-suspect). Bitwise Asset Manager report that accused Coinbene of fictitious trading to manipulate the cryptocurrency market. The details are still extremely vague, [but it is believed that](https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack) more than $100 million worth of cryptocurrencies were stolen in the hack.
 
 
 
@@ -384,7 +384,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 26 million US dollars.</code></p>
+**The value of lost assets: 26 million US dollars.**
 
 
 
@@ -392,11 +392,11 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>By a strange coincidence&nbsp;<code>Youbit</code>(previously known as&nbsp;<code>Yapizon</code>) was renamed to&nbsp;<code>Coinbin</code>.&nbsp;Already facing two massive hacks, you might think that Coinbin would be especially careful.&nbsp;However, this hack was an inside job.</p>
+By a strange coincidence Youbit (previously known as Yapizon) was renamed to Coinbin. Already facing two massive hacks, you might think that Coinbin would be especially careful. However, this hack was an inside job.
 
 
 
-<p>It appears that the&nbsp;&nbsp;<a href="http://www.businesskorea.co.kr/news/articleView.html?idxno=29374"><u>former CEO of Youbit was still working for Coinbin and embezzling the company’s funds</u></a>&nbsp;&nbsp;.&nbsp;This employee allegedly had access to private keys and could withdraw funds from multiple accounts.&nbsp;As a result&nbsp;&nbsp;<a href="https://cointelegraph.com/news/south-koreas-coinbin-files-for-bankruptcy-with-26-mln-loss-cites-employee-embezzlement"><u>, Coinbin filed for bankruptcy</u></a>&nbsp;&nbsp;and shut down, but still owes&nbsp;<em>$30 million</em>&nbsp;to users .</p>
+[It appears that the a ](http://www.businesskorea.co.kr/news/articleView.html?idxno=29374) former CEO of Youbit was still working for Coinbin and embezzling the company’s funds. This employee allegedly had access to private keys and could withdraw funds from multiple accounts. [As a result](https://cointelegraph.com/news/south-koreas-coinbin-files-for-bankruptcy-with-26-mln-loss-cites-employee-embezzlement), Coinbin filed for bankruptcy and shut down, but still owes $30 million to users.
 
 
 
@@ -408,7 +408,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>Information leak: 450 000 user email addresses and passwords</code></p>
+**Information leak: 450 000 user email addresses and passwords**
 
 
 
@@ -416,7 +416,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>This is a slightly less traditional hack because instead of stealing money, the hackers simply stole information.&nbsp;<code>Coinmama</code>is one of the largest cryptocurrency brokers with&nbsp;&nbsp;<a href="https://www.coinmama.com/"><u>over a million active users</u></a>&nbsp;&nbsp;.&nbsp;The impact of this hack appears to have been minor, as Coinmama quickly informed users once they became aware that&nbsp;&nbsp;<a href="https://www.ccn.com/breaking-major-crypto-brokerage-coinmama-hacked-450000-users-affected-in-massive-worldwide-breach"><u>user data was being leaked onto the dark web</u></a>&nbsp;&nbsp;.&nbsp;To date, not a single cryptocurrency has been stolen.</p>
+This is a slightly less traditional hack because instead of stealing money, the hackers simply stole information. Coinmama is one of the largest [cryptocurrency brokers with](https://www.coinmama.com/) over a million active users. The impact of this hack appears to have been minor, as Coinmama quickly informed users once they [became aware that](https://www.ccn.com/breaking-major-crypto-brokerage-coinmama-hacked-450000-users-affected-in-massive-worldwide-breach) user data was being leaked onto the dark web. To date, not a single cryptocurrency coin has been stolen.
 
 
 
@@ -428,7 +428,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 24 million US dollars.</code></p>
+**The value of lost assets: 24 million US dollars.**
 
 
 
@@ -436,19 +436,19 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>Unfortunately for&nbsp;<code>Cryptopia</code>, they suffered&nbsp;&nbsp;<a href="https://www.saturn.network/blog/cryptopia-exchange-hacked-again/"><u>another hack 15 days after the first one</u></a>&nbsp;&nbsp;.&nbsp;That was the end of the New Zealand exchange – now they are going through the process of liquidation.</p>
+Unfortunately for Cryptopia , [they suffered](https://www.saturn.network/blog/cryptopia-exchange-hacked-again) another hack 15 days after the first one. That was the end of the New Zealand exchange – now they are going through the process of liquidation.
 
 
 
-<p>Update 2020:&nbsp;&nbsp;<code>Cryptopia</code>Still in liquidation, but it has now been revealed that the&nbsp;&nbsp;<a href="https://bitcoinist.com/hacked-exchange-cryptopia-breached-aml-requirements/"><u>exchange did not comply with anti-money laundering (AML) requirements</u></a>&nbsp;&nbsp;when creating new user accounts.&nbsp;For more than&nbsp;<code>900 000</code>active user accounts, there is no customer data other than usernames and email addresses.&nbsp;</p>
+*Update 2020* Cryptopia is still in liquidation, but it has now been [revealed that the](https://bitcoinist.com/hacked-exchange-cryptopia-breached-aml-requirements/) exchange did not comply with anti-money laundering (AML) requirements when creating new user accounts. For more than 900,000 active user accounts, there is no customer data other than usernames and email addresses.
 
 
 
-<p>Fewer&nbsp;<code>1%</code>users have completed customer identification, which is an important part of procedures&nbsp;<code>AML</code>that ensure that customers are who they say they are.&nbsp;Thousands of cryptocurrency accounts worth more than $&nbsp;<em>3 million</em>&nbsp;have been&nbsp;&nbsp;<a href="https://www.rnz.co.nz/news/business/409243/cryptopia-anti-money-laundering-compliance-issues-revealed-to-court"><u>traced to uninhabited islands or physical addresses that didn’t exist</u></a>&nbsp;&nbsp;.&nbsp;Currently, many of those who lost funds in a hack are not eligible for a liquidator refund because there is not enough information about who owns which accounts.&nbsp;</p>
+Fewer  than 1% of users have completed customer identification, which is an important part of the AML procedure that ensure that customers are who they say they are. Thousands of cryptocurrency accounts worth more than [$3 million have been](https://www.rnz.co.nz/news/business/409243/cryptopia-anti-money-laundering-compliance-issues-revealed-to-court) traced to uninhabited islands or physical addresses that didn’t exist. Currently, many of those who lost funds in a hack are not eligible for a liquidator refund because there is not enough information about who owns which accounts.
 
 
 
-<p>While it’s unfortunate that it&nbsp;<code>Cryptopia</code>was hacked twice in a row within a month, it’s clear that the exchange didn’t do its due diligence.&nbsp;Given that the majority of Cryptopia’s active users were from outside New Zealand, more needed to be done to enforce anti-money laundering measures.</p>
+While it’s unfortunate that it&nbsp;<code>Cryptopia</code>was hacked twice in a row within a month, it’s clear that the exchange didn’t do its due diligence.&nbsp;Given that the majority of Cryptopia’s active users were from outside New Zealand, more needed to be done to enforce anti-money laundering measures.
 
 
 
@@ -460,7 +460,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 9 million US dollars.</code></p>
+**The value of lost assets: 9 million US dollars.**
 
 
 
@@ -468,27 +468,27 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>QuadrigaCX</code>was the largest cryptocurrency exchange in Canada, owned by Gerald Cotten.&nbsp;<a href="https://www.bloomberg.com/news/articles/2019-02-04/crypto-exchange-founder-dies-leaves-behind-200-million-problem"><u>Cotten was the only person who knew how to access cold wallets</u></a>&nbsp;&nbsp;owned by the exchange.</p>
+QuadrigaCX was the largest cryptocurrency exchange in Canada, owned by Gerald Cotten.[Cotten was the only person](https://www.bloomberg.com/news/articles/2019-02-04/crypto-exchange-founder-dies-leaves-behind-200-million-problem) who knew how to access cold wallets owned by the exchange.
 
 
 
-<p>In December, during his honeymoon in India,&nbsp;&nbsp;<a href="https://archive.is/GAheG"><u>Cotten died</u></a>&nbsp;&nbsp;and took any information on how to access cold wallets to his grave.&nbsp;<code>QuadrigaCX</code>already experienced difficulties, there were rumors of bankruptcy, and with the death of Cotten, the stock exchange collapsed.&nbsp;<a href="https://decrypt.co/5853/complete-story-quadrigacx-190-million"><u>Conspiracy theories began to surface that Cotten was not actually dead</u></a>&nbsp;&nbsp;, he just pulled off a very elaborate exit scam.</p>
+In December, [during his honeymoon in India](https://archive.is/GAheG) Cotten died and took any information on how to access cold wallets to his grave QuadrigaCX already experienced difficulties, there were rumors of bankruptcy, and with the death of Cotten, the stock exchange collapsed. [Conspiracy theories](https://decrypt.co/5853/complete-story-quadrigacx-190-million) began to surface that Cotten was not actually dead, he just pulled off a very elaborate exit scam.
 
 
 
-<p>When the investigation into finances began&nbsp;<code>QuadrigaCX</code>, things took a strange turn.&nbsp;Six cold wallets were found to belong to&nbsp;<code>QuadrigaCX</code>.&nbsp;However, when investigators looked through the wallets, five of them&nbsp;&nbsp;<a href="https://www.bloomberg.com/news/articles/2019-03-01/quadriga-has-6-cold-wallets-but-they-don-t-hold-any-crypto"><u>were emptied around April 2018</u></a>&nbsp;&nbsp;.&nbsp;Nobody knows exactly what happened and the investigation is still ongoing.&nbsp;<a href="https://www.coindesk.com/quadrigacx-founders-widow-will-cough-up-9-million-to-repay-users"><u>Cotten’s widow voluntarily returned $9 million in assets from Cotten’s estate to pay users off</u></a>&nbsp;&nbsp;.</p>
+When the investigation into finances began QuadrigaCX, things took a strange turn. Six cold wallets were found to belong to QuadrigaCX. However, when investigators looked through the wallets, [five of them](https://www.bloomberg.com/news/articles/2019-03-01/quadriga-has-6-cold-wallets-but-they-don-t-hold-any-crypto) were emptied around April 2018. Nobody knows exactly what happened and the investigation is still ongoing. [Cotten’s widow](https://www.coindesk.com/quadrigacx-founders-widow-will-cough-up-9-million-to-repay-users) voluntarily returned $9 million in assets from Cotten’s estate to pay users off.
 
 
 
-<p>2020 update. A year later, what exactly happened to&nbsp;<code>QuadrigaCX</code>is still very unclear.&nbsp;It is still claimed that Cotten is not actually dead, and there have been several attempts to exhume his body.&nbsp;The original request was denied, however&nbsp;&nbsp;<a href="https://coingeek.com/lawyers-increase-pressure-for-quadrigacx-ceo/"><u>, a new request has been made by lawyers representing those who have lost their funds</u></a>&nbsp;&nbsp;.</p>
+*2020 update* A year later, what exactly happened to QuadrigaCX is still very unclear It is still claimed that Cotten is not actually dead, and there have been several attempts to exhume his body. The original request was denied, [however](https://coingeek.com/lawyers-increase-pressure-for-quadrigacx-ceo/) a new request has been made by lawyers representing those who have lost their funds.
 
 
 
-<p>There are also alleged ties to a shady bank in Panama called Crypto Capital.&nbsp;<a href="https://finance.yahoo.com/news/quadrigacx-lawyers-claim-crypto-capital-100021555.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAHpAB2ko0IYfSMUCFf-d8wE8K9Q4OFNognHM_5yn8Zpa6-hhQwp3laK_kDt8cOxYfTEPMtg0YHQJRtN53C3kZ6iBkz3afwiICAWl8vwHyowl9C3fV3SLrT3mLwoWCcGllYVoph6h-8DNhrMb63px5PCM4v3dmG9djYkKNDy7zDBD"><u>Exchange lawyers suspect that some of the missing funds may be stored in Crypto Capital</u></a>&nbsp;&nbsp;, and have turned to all former users for help in this matter&nbsp;<code>QuadrigaCX</code>.</p>
+There are also alleged ties to a shady bank in Panama called [Crypto Capital](https://finance.yahoo.com/news/quadrigacx-lawyers-claim-crypto-capital-100021555.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAHpAB2ko0IYfSMUCFf-d8wE8K9Q4OFNognHM_5yn8Zpa6-hhQwp3laK_kDt8cOxYfTEPMtg0YHQJRtN53C3kZ6iBkz3afwiICAWl8vwHyowl9C3fV3SLrT3mLwoWCcGllYVoph6h-8DNhrMb63px5PCM4v3dmG9djYkKNDy7zDBD) Exchange lawyers suspect that some of the missing funds may be stored in Crypto Capital, and have turned to all former users for help in this matter.
 
 
 
-<p>As of January 2020, the FBI is involved.&nbsp;<a href="https://thenextweb.com/hardfork/2020/01/15/cryptocurrency-bitcoin-quadrigacx-fbi-investigation-gerald-cotten-crypto/"><u>The FBI Victim Specialist contacts former users</u></a>&nbsp;&nbsp;and directs them to a portal where they can get more information.&nbsp;It remains unclear whether we will ever get answers about what actually happened on the exchange.</p>
+As of January 2020, [the FBI is involved](https://thenextweb.com/hardfork/2020/01/15/cryptocurrency-bitcoin-quadrigacx-fbi-investigation-gerald-cotten-crypto/) The FBI Victim Specialist contacts former users and directs them to a portal where they can get more information. It remains unclear whether we will ever get answers about what actually happened on the exchange.
 
 
 
@@ -500,7 +500,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 5,7 million US dollars.</code></p>
+**The value of lost assets: 5,7 million US dollars.**
 
 
 
@@ -508,15 +508,15 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>This hack is still being debated as many believe it was part&nbsp;&nbsp;<a href="https://selfkey.org/the-ultimate-list-of-exit-scams-how-to-spot-one/"><u>of an exit scam</u></a>&nbsp;&nbsp;.&nbsp;<code>MapleChange</code>is a small Canadian cryptocurrency exchange that has&nbsp;&nbsp;<a href="https://news.bitcoin.com/maplechange-purported-hack-exit-scam/"><u>experienced an unusual surge in exchange activity since October</u></a>&nbsp;&nbsp;.&nbsp;Later that month, the exchange announced that it had been hacked and that all funds (worth $&nbsp;<em>5.7 million</em>&nbsp;) had been withdrawn.&nbsp;As a result, MapleChange has announced that it is closing its doors for good.</p>
+This hack is still being debated as [many believe it was part](https://selfkey.org/the-ultimate-list-of-exit-scams-how-to-spot-one/) of an exit scam. MapleChange is a small Canadian [cryptocurrency exchange that has](https://news.bitcoin.com/maplechange-purported-hack-exit-scam/) experienced an unusual surge in exchange activity since October. Later that month, the exchange announced that it had been hacked and that all funds (worth $5.7 million) had been withdrawn. As a result, MapleChange has announced that it is closing its doors for good.
 
 
 
-<p>What made people suspicious was the immediate removal of the MapleChange website, social media accounts, and channels&nbsp;<code>Discord</code>and&nbsp;<code>Telegram</code>.&nbsp;The lack of communication led many to believe there was no hack, despite&nbsp;&nbsp;<a href="https://blockonomi.com/maplechange-hacked-scam/"><u>MapleChange’s insistence that they were simply taking a break</u></a>&nbsp;&nbsp;to decide how to proceed.</p>
+What made people suspicious was the immediate removal of the MapleChange website, social media accounts, and channels Discord and Telegram. The lack of communication led many to believe there was no hack, [despite](https://blockonomi.com/maplechange-hacked-scam/) MapleChange’s insistence that they were simply taking a break to decide how to proceed. 
 
 
 
-<p>Instead of deciding to give anyone back the money,&nbsp;&nbsp;<a href="https://www.ibtimes.com/cryptocurrency-exchange-maplechange-hacked-exit-scam-allegations-surface-2728232"><u>the crypto exchange gave away what little they had left to the developers</u></a>&nbsp;&nbsp;who created the remaining coins.&nbsp;There is still no consensus on the Internet as to whether this was all a hack or another scam.&nbsp;</p>
+ Instead of deciding to give anyone [back the money,](https://www.ibtimes.com/cryptocurrency-exchange-maplechange-hacked-exit-scam-allegations-surface-2728232) the crypto exchange gave away what little they had left to the developers who created the remaining coins. There is still no consensus on the Internet as to whether this was all a hack or another scam. 
 
 
 
@@ -528,7 +528,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p><code>The value of lost assets: 60 million US dollars.</code></p>
+**The value of lost assets: 60 million US dollars.**
 
 
 
@@ -536,7 +536,7 @@ Cryptocurrency exchange Binance affected by approximately the amount 7000 BTC. H
 
 
 
-<p>This is another case where it is not clear how the hackers stole the funds.&nbsp;However&nbsp;&nbsp;<a href="https://www.coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft"><u>, Zaif filed a criminal case with the local authorities</u></a>&nbsp;&nbsp;, which suggests that they have an idea of ​​who did it.&nbsp;Either way, this Japanese exchange lost&nbsp;<em>$60 million worth</em>&nbsp;of cryptocurrencies .</p>
+This is another case where it is not clear how the hackers stole the funds. [However](https://www.coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft), Zaif filed a criminal case with the local authorities, which suggests that they have an idea of who did it. Either way, this Japanese exchange lost $60 million worth of cryptocurrencies.
 
 
 
