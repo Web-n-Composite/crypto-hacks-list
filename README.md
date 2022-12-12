@@ -448,7 +448,7 @@ Fewer  than 1% of users have completed customer identification, which is an impo
 
 
 
-While it’s unfortunate that it&nbsp;<code>Cryptopia</code>was hacked twice in a row within a month, it’s clear that the exchange didn’t do its due diligence.&nbsp;Given that the majority of Cryptopia’s active users were from outside New Zealand, more needed to be done to enforce anti-money laundering measures.
+While it’s unfortunate that it&nbsp;Cryptopiawas hacked twice in a row within a month, it’s clear that the exchange didn’t do its due diligence.&nbsp;Given that the majority of Cryptopia’s active users were from outside New Zealand, more needed to be done to enforce anti-money laundering measures.
 
 
 
@@ -548,7 +548,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 40 million US dollars.</code></p>
+<p>The value of lost assets: 40 million US dollars.</p>
 
 
 
@@ -556,7 +556,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Although the South Korean exchange&nbsp;<code>Coinrail</code>was a relatively small cryptocurrency exchange, it was doing a lot of business, which attracted the attention of hackers.&nbsp;<a href="https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos"><u>The exact details of the attack are still unclear</u></a>&nbsp;&nbsp;, and the exchange lost about&nbsp;<em>$40 million</em>&nbsp;.</p>
+<p>Although the South Korean exchange&nbsp;Coinrailwas a relatively small cryptocurrency exchange, it was doing a lot of business, which attracted the attention of hackers.&nbsp;<a href="https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos"><u>The exact details of the attack are still unclear</u></a>&nbsp;&nbsp;, and the exchange lost about&nbsp;<em>$40 million</em>&nbsp;.</p>
 
 
 
@@ -568,7 +568,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 31 million US dollars.</code></p>
+<p>The value of lost assets: 31 million US dollars.</p>
 
 
 
@@ -576,7 +576,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Unfortunately, hacking problems&nbsp;<code>Bithumb</code>did not start&nbsp;<code>в 2019 году</code>.&nbsp;The exchange was also hacked in 2018, (and you will see them again on our list), with the hackers stealing a significant amount of&nbsp;<code>Ripple</code>.&nbsp;This hack appears to have been orchestrated by a group of North Korean hackers known as the&nbsp;&nbsp;<a href="https://www.zdnet.com/article/north-korea-blamed-for-two-cryptocurrency-scams-five-trading-platform-hacks/"><u>Lazarus Group</u></a>&nbsp;&nbsp;, who have been responsible for a number of cryptocurrency hacks over the years.&nbsp;Luckily for users&nbsp;<code>Bithumb</code>,&nbsp; the&nbsp;<a href="https://www.zdnet.com/article/south-korean-crypto-exchange-bithumb-hacked/"><u>exchange promised to return all stolen funds</u></a>&nbsp;&nbsp;.</p>
+<p>Unfortunately, hacking problems&nbsp;Bithumbdid not start&nbsp;в 2019 году.&nbsp;The exchange was also hacked in 2018, (and you will see them again on our list), with the hackers stealing a significant amount of&nbsp;Ripple.&nbsp;This hack appears to have been orchestrated by a group of North Korean hackers known as the&nbsp;&nbsp;<a href="https://www.zdnet.com/article/north-korea-blamed-for-two-cryptocurrency-scams-five-trading-platform-hacks/"><u>Lazarus Group</u></a>&nbsp;&nbsp;, who have been responsible for a number of cryptocurrency hacks over the years.&nbsp;Luckily for users&nbsp;Bithumb,&nbsp; the&nbsp;<a href="https://www.zdnet.com/article/south-korean-crypto-exchange-bithumb-hacked/"><u>exchange promised to return all stolen funds</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -588,7 +588,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 18 million US dollars.</code></p>
+<p>The value of lost assets: 18 million US dollars.</p>
 
 
 
@@ -596,15 +596,15 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>This is probably one of the strangest hacks on our list, since it was not a cryptocurrency exchange that was hacked, but a cryptocurrency.&nbsp;<code>Bitcoin Gold</code>was a fork of the original Bitcoin that was&nbsp;&nbsp;<a href="https://www.investopedia.com/tech/what-bitcoin-gold-exactly/"><u>hard forked by Bitcoin in an attempt at decentralization</u></a>&nbsp;<em>&nbsp;(ironic, given that Bitcoin is already decentralized)</em>&nbsp;.&nbsp;</p>
+<p>This is probably one of the strangest hacks on our list, since it was not a cryptocurrency exchange that was hacked, but a cryptocurrency.&nbsp;Bitcoin Goldwas a fork of the original Bitcoin that was&nbsp;&nbsp;<a href="https://www.investopedia.com/tech/what-bitcoin-gold-exactly/"><u>hard forked by Bitcoin in an attempt at decentralization</u></a>&nbsp;<em>&nbsp;(ironic, given that Bitcoin is already decentralized)</em>&nbsp;.&nbsp;</p>
 
 
 
-<p><code>Bitcoin Gold</code>was the victim&nbsp;&nbsp;<a href="https://www.investopedia.com/terms/1/51-attack.asp"><u>of a 51% attack</u></a>&nbsp;&nbsp;, a rare case in which hackers managed to gain control of more than the&nbsp;<code>50%</code>processing power of a network.&nbsp;From there, attackers can prevent confirmations, allowing them to effectively stop payments between users and make changes to the network’s blockchain ledger.&nbsp;This type of attack was considered rare, if not impossible, until the&nbsp;<code>Bitcoin Gold</code>.</p>
+<p>Bitcoin Goldwas the victim&nbsp;&nbsp;<a href="https://www.investopedia.com/terms/1/51-attack.asp"><u>of a 51% attack</u></a>&nbsp;&nbsp;, a rare case in which hackers managed to gain control of more than the&nbsp;50%processing power of a network.&nbsp;From there, attackers can prevent confirmations, allowing them to effectively stop payments between users and make changes to the network’s blockchain ledger.&nbsp;This type of attack was considered rare, if not impossible, until the&nbsp;Bitcoin Gold.</p>
 
 
 
-<p>Using complex maneuvers, the hackers placed&nbsp;<code>Bitcoin Gold</code>theirs on exchanges, exchanged them for other cryptocurrencies, and then withdrew the amount.&nbsp;And since they&nbsp;&nbsp;<a href="https://fortune.com/2018/05/29/bitcoin-gold-hack/"><u>controlled the ledger of the Bitcoin Gold blockchain</u></a>&nbsp;&nbsp;, they could simply put the original&nbsp;<code>Bitcoin Gold</code>back into their wallet, effectively stealing money from the exchanges.</p>
+<p>Using complex maneuvers, the hackers placed&nbsp;Bitcoin Goldtheirs on exchanges, exchanged them for other cryptocurrencies, and then withdrew the amount.&nbsp;And since they&nbsp;&nbsp;<a href="https://fortune.com/2018/05/29/bitcoin-gold-hack/"><u>controlled the ledger of the Bitcoin Gold blockchain</u></a>&nbsp;&nbsp;, they could simply put the original&nbsp;Bitcoin Goldback into their wallet, effectively stealing money from the exchanges.</p>
 
 
 
@@ -616,7 +616,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 1,5 million US dollars.</code></p>
+<p>The value of lost assets: 1,5 million US dollars.</p>
 
 
 
@@ -624,7 +624,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>Taylor</code>is a cryptocurrency trading app that has had a successful initial coin offering&nbsp;<code>(ICO)</code>for funding.&nbsp;Unfortunately, the hackers managed to&nbsp;&nbsp;<a href="https://medium.com/smarttaylor/updates-on-the-taylor-hack-incident-8843238d1670"><u>gain access to the company’s device shortly after and gain control of the password file</u></a>&nbsp;&nbsp;.&nbsp;The attackers stole everything&nbsp;<code>Ethereum</code>collected during the course&nbsp;<code>ICO</code>, in the amount of&nbsp;<em>1.5 million dollars</em>&nbsp;.&nbsp;There were fears that this was another exit scam, but it appears that Taylor&nbsp;&nbsp;<a href="https://medium.com/smarttaylor/development-update-march-2019-31fd5ad8707d"><u>has gradually been able to recover</u></a>&nbsp;&nbsp;.&nbsp;</p>
+<p>Tayloris a cryptocurrency trading app that has had a successful initial coin offering&nbsp;(ICO)for funding.&nbsp;Unfortunately, the hackers managed to&nbsp;&nbsp;<a href="https://medium.com/smarttaylor/updates-on-the-taylor-hack-incident-8843238d1670"><u>gain access to the company’s device shortly after and gain control of the password file</u></a>&nbsp;&nbsp;.&nbsp;The attackers stole everything&nbsp;Ethereumcollected during the course&nbsp;ICO, in the amount of&nbsp;<em>1.5 million dollars</em>&nbsp;.&nbsp;There were fears that this was another exit scam, but it appears that Taylor&nbsp;&nbsp;<a href="https://medium.com/smarttaylor/development-update-march-2019-31fd5ad8707d"><u>has gradually been able to recover</u></a>&nbsp;&nbsp;.&nbsp;</p>
 
 
 
@@ -636,7 +636,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 3,5 million US dollars.</code></p>
+<p>The value of lost assets: 3,5 million US dollars.</p>
 
 
 
@@ -644,7 +644,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>CoinSecure</code>, an Indian cryptocurrency exchange, lost $&nbsp;<em>3.5 million</em>&nbsp;worth of bitcoins during a hack.&nbsp;However, it looks like it was an inside job.&nbsp;The owners&nbsp;<code>CoinSecure</code>believe their former head of security stole the funds.&nbsp;Looks like they messed something up, as&nbsp;&nbsp;<a href="https://www.livebitcoinnews.com/coinsecure-hack-investigation-brings-new-evidence-to-light/"><u>he was later arrested</u></a>&nbsp;&nbsp;.&nbsp;</p>
+<p>CoinSecure, an Indian cryptocurrency exchange, lost $&nbsp;<em>3.5 million</em>&nbsp;worth of bitcoins during a hack.&nbsp;However, it looks like it was an inside job.&nbsp;The owners&nbsp;CoinSecurebelieve their former head of security stole the funds.&nbsp;Looks like they messed something up, as&nbsp;&nbsp;<a href="https://www.livebitcoinnews.com/coinsecure-hack-investigation-brings-new-evidence-to-light/"><u>he was later arrested</u></a>&nbsp;&nbsp;.&nbsp;</p>
 
 
 
@@ -656,7 +656,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 170 million US dollars.</code></p>
+<p>The value of lost assets: 170 million US dollars.</p>
 
 
 
@@ -664,7 +664,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><em>Over $170 million</em><code>Bitgrail</code>&nbsp;was stolen from the&nbsp;Italian stock exchange&nbsp;, and the details are a little blurry.&nbsp;While the owner, Francesco Firani, announced the break-in, other employees&nbsp;denied it and said there was nothing wrong with it.&nbsp;<a href="https://fortune.com/2018/02/11/bitgrail-cryptocurrency-claims-hack/"><u>People are skeptical about whether this was a real hack</u></a>&nbsp;&nbsp;or an attempted exit scam.<em></em><code>Bitgrail</code><a href="https://fortune.com/2018/02/11/bitgrail-cryptocurrency-claims-hack/"><u></u></a></p>
+<p><em>Over $170 million</em>Bitgrail&nbsp;was stolen from the&nbsp;Italian stock exchange&nbsp;, and the details are a little blurry.&nbsp;While the owner, Francesco Firani, announced the break-in, other employees&nbsp;denied it and said there was nothing wrong with it.&nbsp;<a href="https://fortune.com/2018/02/11/bitgrail-cryptocurrency-claims-hack/"><u>People are skeptical about whether this was a real hack</u></a>&nbsp;&nbsp;or an attempted exit scam.<em></em>Bitgrail<a href="https://fortune.com/2018/02/11/bitgrail-cryptocurrency-claims-hack/"><u></u></a></p>
 
 
 
@@ -676,14 +676,14 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 533 million US dollars.</code></p>
+<p>The value of lost assets: 533 million US dollars.</p>
 
 
 
 ![image](https://user-images.githubusercontent.com/114734003/206682926-6f7ed445-f113-43b1-8c3f-01cdba4c1fac.png)
 
 
-<p><code>Coincheck</code>was the leading exchange in Japan, but the hack showed how insecure the platform was.&nbsp;The hackers managed to spread the virus via email, allowing them to steal the private keys.&nbsp;After that, it was surprisingly easy, as&nbsp;&nbsp;<a href="https://blockonomi.com/coincheck-hack/"><u>Coincheck did not use smart contracts or multi-signatures, and all the coins were stored in one wallet</u></a>&nbsp;&nbsp;.&nbsp;The total value of the stolen cryptocurrency is one of the highest ever, with an estimated value of&nbsp;<em>$533 million</em>&nbsp;at the time of the hack .&nbsp;</p>
+<p>Coincheckwas the leading exchange in Japan, but the hack showed how insecure the platform was.&nbsp;The hackers managed to spread the virus via email, allowing them to steal the private keys.&nbsp;After that, it was surprisingly easy, as&nbsp;&nbsp;<a href="https://blockonomi.com/coincheck-hack/"><u>Coincheck did not use smart contracts or multi-signatures, and all the coins were stored in one wallet</u></a>&nbsp;&nbsp;.&nbsp;The total value of the stolen cryptocurrency is one of the highest ever, with an estimated value of&nbsp;<em>$533 million</em>&nbsp;at the time of the hack .&nbsp;</p>
 
 
 
@@ -699,14 +699,14 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 62 million US dollars.</code></p>
+<p>The value of lost assets: 62 million US dollars.</p>
 
 
 
 ![image](https://user-images.githubusercontent.com/114734003/206682965-76b74c7c-ae7e-46e9-86cd-7203066fcc07.png)
 
 
-<p><code>NiceHash</code>is a cryptocurrency mining market that allows miners to rent out their hashrate to others.&nbsp;<a href="https://www.coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked"><u>Their payment system was compromised</u></a>&nbsp;&nbsp;, resulting in the content of users’ bitcoin wallets being stolen.&nbsp;The exact amount stolen has never been confirmed&nbsp;<code>NiceHash</code>, but it is believed to be4736 Bitcoin worth about&nbsp;<em>$62 million</em>&nbsp;at the time .&nbsp;This story ends on a happy note as&nbsp;&nbsp;<a href="https://news.bitcoin.com/nicehash-returns-60-of-coins-stolen-in-the-hack/"><u>NiceHash managed to return</u></a><code>60%</code>&nbsp;the stolen funds to&nbsp;&nbsp;users .</p>
+<p>NiceHashis a cryptocurrency mining market that allows miners to rent out their hashrate to others.&nbsp;<a href="https://www.coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked"><u>Their payment system was compromised</u></a>&nbsp;&nbsp;, resulting in the content of users’ bitcoin wallets being stolen.&nbsp;The exact amount stolen has never been confirmed&nbsp;NiceHash, but it is believed to be4736 Bitcoin worth about&nbsp;<em>$62 million</em>&nbsp;at the time .&nbsp;This story ends on a happy note as&nbsp;&nbsp;<a href="https://news.bitcoin.com/nicehash-returns-60-of-coins-stolen-in-the-hack/"><u>NiceHash managed to return</u></a>60%&nbsp;the stolen funds to&nbsp;&nbsp;users .</p>
 
 
 
@@ -718,7 +718,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: Неизвестно</code></p>
+<p>The value of lost assets: Неизвестно</p>
 
 
 
@@ -726,7 +726,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>Youbit</code>(formerly known as&nbsp;<code>Yapizon</code>) was a relatively small South Korean cryptocurrency exchange that was previously hacked in 2017. This time the hackers stole&nbsp;&nbsp;<a href="https://cryptovest.com/news/another-bitcoin-exchange-hacked-youbit-files-bankruptcy-after-losing-users-coins/"><u>17% of the exchange’s assets</u></a>&nbsp;&nbsp;.&nbsp;This was the end for&nbsp;<code>Youbit</code>, the same day they&nbsp;&nbsp;<a href="https://www.bbc.com/news/technology-42409815"><u>filed for bankruptcy .</u></a></p>
+<p>Youbit(formerly known as&nbsp;Yapizon) was a relatively small South Korean cryptocurrency exchange that was previously hacked in 2017. This time the hackers stole&nbsp;&nbsp;<a href="https://cryptovest.com/news/another-bitcoin-exchange-hacked-youbit-files-bankruptcy-after-losing-users-coins/"><u>17% of the exchange’s assets</u></a>&nbsp;&nbsp;.&nbsp;This was the end for&nbsp;Youbit, the same day they&nbsp;&nbsp;<a href="https://www.bbc.com/news/technology-42409815"><u>filed for bankruptcy .</u></a></p>
 
 
 
@@ -738,7 +738,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 7 million US dollars.</code></p>
+<p>The value of lost assets: 7 million US dollars.</p>
 
 
 
@@ -746,7 +746,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>Bithumb</code>reappears on this list.&nbsp;At the time of the hack&nbsp;<code>Bithumb</code>, it was the fourth largest cryptocurrency exchange in the world.&nbsp;An unknown hacker managed to gain access to an employee’s personal computer and&nbsp;&nbsp;<a href="https://www.bleepingcomputer.com/news/security/fourth-largest-cryptocurrency-exchange-was-hacked-users-lose-ethereum-and-bitcoin/"><u>steal the data of over 30,000 Bithumb users</u></a>&nbsp;&nbsp;.&nbsp;Shortly thereafter, users began to notice that their accounts were being emptied.&nbsp;</p>
+<p>Bithumbreappears on this list.&nbsp;At the time of the hack&nbsp;Bithumb, it was the fourth largest cryptocurrency exchange in the world.&nbsp;An unknown hacker managed to gain access to an employee’s personal computer and&nbsp;&nbsp;<a href="https://www.bleepingcomputer.com/news/security/fourth-largest-cryptocurrency-exchange-was-hacked-users-lose-ethereum-and-bitcoin/"><u>steal the data of over 30,000 Bithumb users</u></a>&nbsp;&nbsp;.&nbsp;Shortly thereafter, users began to notice that their accounts were being emptied.&nbsp;</p>
 
 
 
@@ -758,7 +758,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 5 million US dollars.</code></p>
+<p>The value of lost assets: 5 million US dollars.</p>
 
 
 
@@ -766,7 +766,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Before&nbsp;<code>Yapizon</code>changing their name to&nbsp;<code>Youbit</code>, they were hacked for the first time.&nbsp;The attackers managed to escape with&nbsp;&nbsp;<a href="https://cointelegraph.com/news/korean-bitcoin-exchange-yapizon-confirms-5-mln-hack-all-customers-to-pay-with-balances"><u>$5 million worth of bitcoins</u></a>&nbsp;&nbsp;and&nbsp;<code>Yapizon</code>did their best to mitigate the damage.</p>
+<p>Before&nbsp;Yapizonchanging their name to&nbsp;Youbit, they were hacked for the first time.&nbsp;The attackers managed to escape with&nbsp;&nbsp;<a href="https://cointelegraph.com/news/korean-bitcoin-exchange-yapizon-confirms-5-mln-hack-all-customers-to-pay-with-balances"><u>$5 million worth of bitcoins</u></a>&nbsp;&nbsp;and&nbsp;Yapizondid their best to mitigate the damage.</p>
 
 
 
@@ -778,7 +778,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 350 million US dollars.</code></p>
+<p>The value of lost assets: 350 million US dollars.</p>
 
 
 
@@ -786,7 +786,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>This Hong Kong-based cryptocurrency exchange claims to be the most secure exchange in the world.&nbsp;Unfortunately, this turned out to be very untrue.&nbsp;Hackers stole a large amount of bitcoins through a processing service&nbsp;<code>Bitfinex</code>–&nbsp;<code>BitGo</code>.&nbsp;The price&nbsp; of&nbsp;<a href="https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know"><u>bitcoin plummeted</u></a>&nbsp;&nbsp;as a result of the hack.</p>
+<p>This Hong Kong-based cryptocurrency exchange claims to be the most secure exchange in the world.&nbsp;Unfortunately, this turned out to be very untrue.&nbsp;Hackers stole a large amount of bitcoins through a processing service&nbsp;Bitfinex–&nbsp;BitGo.&nbsp;The price&nbsp; of&nbsp;<a href="https://www.coindesk.com/bitfinex-bitcoin-hack-know-dont-know"><u>bitcoin plummeted</u></a>&nbsp;&nbsp;as a result of the hack.</p>
 
 
 
@@ -798,7 +798,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 2 million US dollars.</code></p>
+<p>The value of lost assets: 2 million US dollars.</p>
 
 
 
@@ -806,7 +806,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>At the time , it&nbsp;<code>GateCoin</code>was one of the first regulated cryptocurrency exchanges, and its popularity made it a prime target for attackers.&nbsp;The hackers managed to gain access to users’ wallets and&nbsp;&nbsp;<a href="https://thenextweb.com/hardfork/2019/03/14/gatecoin-cryptocurrency-exchange-dead/"><u>steal $2 million worth of cryptocurrencies</u></a>&nbsp;&nbsp;.&nbsp;It was the nail in the coffin for the&nbsp;<code>GateCoin</code>stock exchange never recovered.&nbsp;</p>
+<p>At the time , it&nbsp;GateCoinwas one of the first regulated cryptocurrency exchanges, and its popularity made it a prime target for attackers.&nbsp;The hackers managed to gain access to users’ wallets and&nbsp;&nbsp;<a href="https://thenextweb.com/hardfork/2019/03/14/gatecoin-cryptocurrency-exchange-dead/"><u>steal $2 million worth of cryptocurrencies</u></a>&nbsp;&nbsp;.&nbsp;It was the nail in the coffin for the&nbsp;GateCoinstock exchange never recovered.&nbsp;</p>
 
 
 
@@ -818,7 +818,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 230 thousand US dollars.</code></p>
+<p>The value of lost assets: 230 thousand US dollars.</p>
 
 
 
@@ -826,7 +826,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Within a month, the cryptocurrency exchange&nbsp;<code>ShapeShift</code>was hacked&nbsp;<em>three times</em>&nbsp;.&nbsp;According to&nbsp;&nbsp;<a href="https://news.bitcoin.com/looting-fox-sabotage-shapeshift/"><u>a detailed report by ShapeShift CEO Eric Voorhees</u></a>&nbsp;&nbsp;, a former employee is responsible for all three hacks.&nbsp;<a href="https://www.coindesk.com/digital-currency-exchange-shapeshift-says-lost-230k-3-separate-hacks"><u>They pledged to restore the</u></a>&nbsp;cryptocurrency&nbsp;&nbsp;&nbsp;, and they are one of the few who managed to do it successfully.&nbsp;</p>
+<p>Within a month, the cryptocurrency exchange&nbsp;ShapeShiftwas hacked&nbsp;<em>three times</em>&nbsp;.&nbsp;According to&nbsp;&nbsp;<a href="https://news.bitcoin.com/looting-fox-sabotage-shapeshift/"><u>a detailed report by ShapeShift CEO Eric Voorhees</u></a>&nbsp;&nbsp;, a former employee is responsible for all three hacks.&nbsp;<a href="https://www.coindesk.com/digital-currency-exchange-shapeshift-says-lost-230k-3-separate-hacks"><u>They pledged to restore the</u></a>&nbsp;cryptocurrency&nbsp;&nbsp;&nbsp;, and they are one of the few who managed to do it successfully.&nbsp;</p>
 
 
 
@@ -838,7 +838,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 1,5 million US dollars.</code></p>
+<p>The value of lost assets: 1,5 million US dollars.</p>
 
 
 
@@ -846,7 +846,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><a href="https://www.investopedia.com/terms/c/cold-storage.asp"><u>The cold wallet</u></a>&nbsp;&nbsp;of this Chinese exchange<code>BTER</code>was hacked, resulting in the loss of over $<em>&nbsp;1.5 million worth</em>&nbsp;of bitcoins .&nbsp;<a href="https://siliconangle.com/2015/02/15/another-one-chinese-bitcoin-exchange-bter-com-claims-to-have-lost-7170-btc-in-major-hack/"><u>Reddit users were very suspicious</u></a>&nbsp;&nbsp;, as hacking a cold wallet is extremely difficult, and suggested that the hack was an inside job.</p>
+<p><a href="https://www.investopedia.com/terms/c/cold-storage.asp"><u>The cold wallet</u></a>&nbsp;&nbsp;of this Chinese exchangeBTERwas hacked, resulting in the loss of over $<em>&nbsp;1.5 million worth</em>&nbsp;of bitcoins .&nbsp;<a href="https://siliconangle.com/2015/02/15/another-one-chinese-bitcoin-exchange-bter-com-claims-to-have-lost-7170-btc-in-major-hack/"><u>Reddit users were very suspicious</u></a>&nbsp;&nbsp;, as hacking a cold wallet is extremely difficult, and suggested that the hack was an inside job.</p>
 
 
 
@@ -858,7 +858,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 3000 BTC</code></p>
+<p>The value of lost assets: 3000 BTC</p>
 
 
 
@@ -866,7 +866,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>You will see&nbsp;<code>Linode</code>further down our list, but this was a hosting server for several cryptocurrency exchanges.&nbsp;<em>It was hacked again in 2014,</em>&nbsp;this time causing a security breach on the server&nbsp;<code>KipCoin</code>.&nbsp;The hackers managed to take control of the entire platform by changing the passwords inside.&nbsp;A month-long struggle ensued, during which the administrators managed to regain control over the exchange, but the hackers still hid.&nbsp;At the time of the hack,&nbsp;&nbsp;<a href="https://coinjournal.net/chinese-exchange-kipcoin-hacked/"><u>KipCoin did not tell users what was going on in light</u></a>&nbsp;of the &nbsp;hack&nbsp;<code>Bitstamp</code>, and only later revealed the information.</p>
+<p>You will see&nbsp;Linodefurther down our list, but this was a hosting server for several cryptocurrency exchanges.&nbsp;<em>It was hacked again in 2014,</em>&nbsp;this time causing a security breach on the server&nbsp;KipCoin.&nbsp;The hackers managed to take control of the entire platform by changing the passwords inside.&nbsp;A month-long struggle ensued, during which the administrators managed to regain control over the exchange, but the hackers still hid.&nbsp;At the time of the hack,&nbsp;&nbsp;<a href="https://coinjournal.net/chinese-exchange-kipcoin-hacked/"><u>KipCoin did not tell users what was going on in light</u></a>&nbsp;of the &nbsp;hack&nbsp;Bitstamp, and only later revealed the information.</p>
 
 
 
@@ -878,7 +878,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 5,1 million US dollars.</code></p>
+<p>The value of lost assets: 5,1 million US dollars.</p>
 
 
 
@@ -886,7 +886,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>Bitstamp</code>was the first licensed cryptocurrency exchange in Europe.&nbsp;It was compromised when&nbsp;&nbsp;<a href="https://www.coindesk.com/unconfirmed-report-5-million-bitstamp-bitcoin-exchange#targetText=According%20to%20the%20report%2C%20the,someone%20posing%20as%20a%20reporter."><u>hackers sent a malicious email to Bitstamp employees</u></a>&nbsp;&nbsp;, and only one employee followed the link and exposed the entire exchange.&nbsp;The attackers escaped with bitcoins, which were valued at&nbsp;<em>$5.1 million</em>&nbsp;at the time .</p>
+<p>Bitstampwas the first licensed cryptocurrency exchange in Europe.&nbsp;It was compromised when&nbsp;&nbsp;<a href="https://www.coindesk.com/unconfirmed-report-5-million-bitstamp-bitcoin-exchange#targetText=According%20to%20the%20report%2C%20the,someone%20posing%20as%20a%20reporter."><u>hackers sent a malicious email to Bitstamp employees</u></a>&nbsp;&nbsp;, and only one employee followed the link and exposed the entire exchange.&nbsp;The attackers escaped with bitcoins, which were valued at&nbsp;<em>$5.1 million</em>&nbsp;at the time .</p>
 
 
 
@@ -898,7 +898,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 17 BTC</code></p>
+<p>The value of lost assets: 17 BTC</p>
 
 
 
@@ -918,7 +918,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 3700 BTC</code></p>
+<p>The value of lost assets: 3700 BTC</p>
 
 
 
@@ -926,15 +926,15 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>MintPal</code>survived the second break-in in October (scroll down to read about the first break-in in July), but there were many more twists and turns in this case.&nbsp;Shortly after the July hack,&nbsp;<code>MintPal</code>it was&nbsp;&nbsp;<a href="https://www.coindesk.com/moolah-acquires-troubled-altcoin-exchange-mintpal"><u>bought by Moolah</u></a>&nbsp;&nbsp;(also known as&nbsp;<code>Moopay Ltd</code>), owned by Ryan Kennedy, also known as Alex Green.</p>
+<p>MintPalsurvived the second break-in in October (scroll down to read about the first break-in in July), but there were many more twists and turns in this case.&nbsp;Shortly after the July hack,&nbsp;MintPalit was&nbsp;&nbsp;<a href="https://www.coindesk.com/moolah-acquires-troubled-altcoin-exchange-mintpal"><u>bought by Moolah</u></a>&nbsp;&nbsp;(also known as&nbsp;Moopay Ltd), owned by Ryan Kennedy, also known as Alex Green.</p>
 
 
 
-<p>After a failed restart of MintPal&nbsp;&nbsp;<a href="https://www.coindesk.com/moolah-mintpal-closure-bankruptcy"><u>, Moolah announced that it is closing its doors</u></a>&nbsp;&nbsp;, but users will still be able to use&nbsp;<code>MintPal</code>.&nbsp;However, user accounts were locked out and users could&nbsp;&nbsp;<a href="https://www.theguardian.com/technology/2014/oct/23/british-serial-entrepreneur-missing-bitcoin-apparently-stolen"><u>track withdrawals from wallets</u></a>&nbsp;&nbsp;and then watch them sell on another platform.&nbsp;Kennedy was the only one with access to client funds and he was currently on the run.&nbsp;</p>
+<p>After a failed restart of MintPal&nbsp;&nbsp;<a href="https://www.coindesk.com/moolah-mintpal-closure-bankruptcy"><u>, Moolah announced that it is closing its doors</u></a>&nbsp;&nbsp;, but users will still be able to use&nbsp;MintPal.&nbsp;However, user accounts were locked out and users could&nbsp;&nbsp;<a href="https://www.theguardian.com/technology/2014/oct/23/british-serial-entrepreneur-missing-bitcoin-apparently-stolen"><u>track withdrawals from wallets</u></a>&nbsp;&nbsp;and then watch them sell on another platform.&nbsp;Kennedy was the only one with access to client funds and he was currently on the run.&nbsp;</p>
 
 
 
-<p>Kennedy was&nbsp;&nbsp;<a href="https://news.bitcoin.com/ryan-kennedy-rapist/"><u>arrested in 2016 on suspicion of rape</u></a>&nbsp;&nbsp;and is now in prison.&nbsp;Now he is also&nbsp;&nbsp;<a href="https://www.coindesk.com/former-dogecoin-exchange-ceo-faces-fraud-charges-uk"><u>facing charges of fraud by the British police</u></a>&nbsp;&nbsp;for his part in the break-in&nbsp;<code>MintPal</code>.&nbsp;</p>
+<p>Kennedy was&nbsp;&nbsp;<a href="https://news.bitcoin.com/ryan-kennedy-rapist/"><u>arrested in 2016 on suspicion of rape</u></a>&nbsp;&nbsp;and is now in prison.&nbsp;Now he is also&nbsp;&nbsp;<a href="https://www.coindesk.com/former-dogecoin-exchange-ceo-faces-fraud-charges-uk"><u>facing charges of fraud by the British police</u></a>&nbsp;&nbsp;for his part in the break-in&nbsp;MintPal.&nbsp;</p>
 
 
 
@@ -946,7 +946,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 13 000 BTC и 300 000 LTC</code></p>
+<p>The value of lost assets: 13 000 BTC и 300 000 LTC</p>
 
 
 
@@ -954,7 +954,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>A Trojan virus was inserted into Cryptsy’s code by a hacker&nbsp;<code>Lucky7Coin</code>.&nbsp;As a result&nbsp;<code>Lucky7Coin</code>&nbsp;<em>(and possibly others)</em>&nbsp;have left with a staggering amount of cryptocurrencies.&nbsp;Owner&nbsp;<code>Cryptsy</code>Paul Vernon&nbsp;&nbsp;<a href="https://www.coindesk.com/cryptsy-bankruptcy-millions-bitcoin-stolen"><u>was accused of destroying evidence and stealing bitcoins,</u></a>&nbsp;&nbsp;and the exchange declared insolvency.&nbsp;Vernon was successfully class-sued&nbsp;&nbsp;<a href="https://cointelegraph.com/news/former-bitcoin-exchange-cryptsy-ceo-ordered-to-pay-82-mln-in-class-action-lawsuit"><u>for $8.2 million</u></a>&nbsp;&nbsp;.</p>
+<p>A Trojan virus was inserted into Cryptsy’s code by a hacker&nbsp;Lucky7Coin.&nbsp;As a result&nbsp;Lucky7Coin&nbsp;<em>(and possibly others)</em>&nbsp;have left with a staggering amount of cryptocurrencies.&nbsp;Owner&nbsp;CryptsyPaul Vernon&nbsp;&nbsp;<a href="https://www.coindesk.com/cryptsy-bankruptcy-millions-bitcoin-stolen"><u>was accused of destroying evidence and stealing bitcoins,</u></a>&nbsp;&nbsp;and the exchange declared insolvency.&nbsp;Vernon was successfully class-sued&nbsp;&nbsp;<a href="https://cointelegraph.com/news/former-bitcoin-exchange-cryptsy-ceo-ordered-to-pay-82-mln-in-class-action-lawsuit"><u>for $8.2 million</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -966,7 +966,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 8 миллионов VRC</code></p>
+<p>The value of lost assets: 8 миллионов VRC</p>
 
 
 
@@ -974,7 +974,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Before the failed takeover by&nbsp;<code>MintPal</code>Alex Kennedy, they experienced another break-in.&nbsp;The hacker found a weak spot in the withdrawal system on the exchange and managed to authorize the withdrawal from the wallet&nbsp;<code>Vericoin</code>.&nbsp;<a href="https://www.ledger.com/remembering-the-mintpal-hack/"><u>Bitcoin and Litecoin wallet</u></a>&nbsp;sites&nbsp; were also attacked&nbsp;&nbsp;, but nothing was stolen.&nbsp;The hack resulted in the loss of&nbsp;<code>30%</code>everyone&nbsp;<code>Vericoin</code>, which led&nbsp;&nbsp;<a href="https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach"><u>the Vericoin development team to decide to hard fork</u></a>&nbsp;&nbsp;in order to mitigate the damage.</p>
+<p>Before the failed takeover by&nbsp;MintPalAlex Kennedy, they experienced another break-in.&nbsp;The hacker found a weak spot in the withdrawal system on the exchange and managed to authorize the withdrawal from the wallet&nbsp;Vericoin.&nbsp;<a href="https://www.ledger.com/remembering-the-mintpal-hack/"><u>Bitcoin and Litecoin wallet</u></a>&nbsp;sites&nbsp; were also attacked&nbsp;&nbsp;, but nothing was stolen.&nbsp;The hack resulted in the loss of&nbsp;30%everyone&nbsp;Vericoin, which led&nbsp;&nbsp;<a href="https://www.coindesk.com/bitcoin-protected-vericoin-stolen-mintpal-wallet-breach"><u>the Vericoin development team to decide to hard fork</u></a>&nbsp;&nbsp;in order to mitigate the damage.</p>
 
 
 
@@ -986,7 +986,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 850 000 BTC</code></p>
+<p>The value of lost assets: 850 000 BTC</p>
 
 
 
@@ -994,11 +994,11 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>You might be surprised to see this name again and be associated with one of the biggest hacks of all time.&nbsp;The investigation is still ongoing and the situation is far from clear, but it looks like when it&nbsp;<code>Mt.Gox</code>was originally hacked in 2011, the attackers also stole some private keys.&nbsp;Hackers gained access to a large amount of bitcoins and began to empty wallets.</p>
+<p>You might be surprised to see this name again and be associated with one of the biggest hacks of all time.&nbsp;The investigation is still ongoing and the situation is far from clear, but it looks like when it&nbsp;Mt.Goxwas originally hacked in 2011, the attackers also stole some private keys.&nbsp;Hackers gained access to a large amount of bitcoins and began to empty wallets.</p>
 
 
 
-<p>Allegedly due to an error in the systems, the&nbsp;<code>Mt.Gox</code>&nbsp;<a href="https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715"><u>exchange interpreted these withdrawals as deposits</u></a>&nbsp;&nbsp;for almost two years.&nbsp;It was a huge mistake that cost users&nbsp;<em>$45 million</em>&nbsp;and ended the cryptocurrency exchange.&nbsp;<code>Mt.Gox</code>filed for bankruptcy within a month, causing the price of bitcoin to drop by&nbsp;<code>36%</code>.&nbsp;<a href="https://cointelegraph.com/news/aug-21-digest-mark-karpeles-re-arrested-in-japan-world-wide-web-consortium-to-launch-web-payments-working-group"><u>The former CEO of Mt.Gox was arrested in 2015</u></a>&nbsp;&nbsp;after he was found to be in possession of $&nbsp;<em>2 million</em>&nbsp;worth of bitcoins , which were allegedly stolen in a hack.</p>
+<p>Allegedly due to an error in the systems, the&nbsp;Mt.Gox&nbsp;<a href="https://medium.com/@jimmysong/mt-gox-hack-technical-explanation-37ea5549f715"><u>exchange interpreted these withdrawals as deposits</u></a>&nbsp;&nbsp;for almost two years.&nbsp;It was a huge mistake that cost users&nbsp;<em>$45 million</em>&nbsp;and ended the cryptocurrency exchange.&nbsp;Mt.Goxfiled for bankruptcy within a month, causing the price of bitcoin to drop by&nbsp;36%.&nbsp;<a href="https://cointelegraph.com/news/aug-21-digest-mark-karpeles-re-arrested-in-japan-world-wide-web-consortium-to-launch-web-payments-working-group"><u>The former CEO of Mt.Gox was arrested in 2015</u></a>&nbsp;&nbsp;after he was found to be in possession of $&nbsp;<em>2 million</em>&nbsp;worth of bitcoins , which were allegedly stolen in a hack.</p>
 
 
 
@@ -1014,7 +1014,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 97 BTC</code></p>
+<p>The value of lost assets: 97 BTC</p>
 
 
 
@@ -1034,7 +1034,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 484 BTC</code></p>
+<p>The value of lost assets: 484 BTC</p>
 
 
 
@@ -1042,7 +1042,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>The Czech exchange&nbsp;<code>Bitcash</code>lost bitcoins after its servers were hacked.&nbsp;The attackers&nbsp;&nbsp;<a href="https://www.coindesk.com/czech-bitcoin-exchange-bitcash-cz-hacked-4000-user-wallets-emptied"><u>gained access to the email and sent out a phishing scam</u></a>&nbsp;&nbsp;, posing as&nbsp;<code>Bitcash</code>, in order to obtain customer information, which they then used to steal funds.</p>
+<p>The Czech exchange&nbsp;Bitcashlost bitcoins after its servers were hacked.&nbsp;The attackers&nbsp;&nbsp;<a href="https://www.coindesk.com/czech-bitcoin-exchange-bitcash-cz-hacked-4000-user-wallets-emptied"><u>gained access to the email and sent out a phishing scam</u></a>&nbsp;&nbsp;, posing as&nbsp;Bitcash, in order to obtain customer information, which they then used to steal funds.</p>
 
 
 
@@ -1054,7 +1054,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 1454 BTC</code></p>
+<p>The value of lost assets: 1454 BTC</p>
 
 
 
@@ -1062,7 +1062,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>While the hack&nbsp;<code>Vicurex</code>has never been accurately confirmed (some believe it was an inside job), the cryptocurrency exchange has announced that it has lost most of its reserve funds to the hackers.&nbsp;<code>Vicurex</code>, which is on the verge of bankruptcy, froze all withdrawals, causing&nbsp;&nbsp;<a href="https://www.coindesk.com/former-customers-sue-vircurex-exchange-over-frozen-crypto-funds"><u>several former clients to sue the company for withholding their money</u></a>&nbsp;&nbsp;.</p>
+<p>While the hack&nbsp;Vicurexhas never been accurately confirmed (some believe it was an inside job), the cryptocurrency exchange has announced that it has lost most of its reserve funds to the hackers.&nbsp;Vicurex, which is on the verge of bankruptcy, froze all withdrawals, causing&nbsp;&nbsp;<a href="https://www.coindesk.com/former-customers-sue-vircurex-exchange-over-frozen-crypto-funds"><u>several former clients to sue the company for withholding their money</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -1074,7 +1074,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 24 000 BTC</code></p>
+<p>The value of lost assets: 24 000 BTC</p>
 
 
 
@@ -1082,7 +1082,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>At the time of the hack&nbsp;<code>BitFloor</code>, it was the fourth largest exchange in the US market.&nbsp;The attackers managed to gain access to the servers and&nbsp;&nbsp;<a href="https://bitcoinmagazine.com/articles/bitfloor-hacked-250000-missing-1346821046"><u>find unencrypted backup wallet keys</u></a>&nbsp;&nbsp;.&nbsp;From there, they simply siphoned funds&nbsp;<em>totaling $250,000.</em>&nbsp;</p>
+<p>At the time of the hack&nbsp;BitFloor, it was the fourth largest exchange in the US market.&nbsp;The attackers managed to gain access to the servers and&nbsp;&nbsp;<a href="https://bitcoinmagazine.com/articles/bitfloor-hacked-250000-missing-1346821046"><u>find unencrypted backup wallet keys</u></a>&nbsp;&nbsp;.&nbsp;From there, they simply siphoned funds&nbsp;<em>totaling $250,000.</em>&nbsp;</p>
 
 
 
@@ -1094,7 +1094,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 18457 BTC</code></p>
+<p>The value of lost assets: 18457 BTC</p>
 
 
 
@@ -1102,7 +1102,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Unfortunately for&nbsp;<code>Bitcoinica</code>, just two months after the initial hack, they suffered another hack.&nbsp;This led many to suspect that the initial security problems that arose from the March attack on&nbsp;<code>Linode</code>, were never effectively resolved.&nbsp;The site was immediately taken down and&nbsp;&nbsp;<a href="https://bitcoinmagazine.com/articles/Bitcoinica_An_Obituary-1336979566"><u>the exchange permanently shut down</u></a>&nbsp;&nbsp;.</p>
+<p>Unfortunately for&nbsp;Bitcoinica, just two months after the initial hack, they suffered another hack.&nbsp;This led many to suspect that the initial security problems that arose from the March attack on&nbsp;Linode, were never effectively resolved.&nbsp;The site was immediately taken down and&nbsp;&nbsp;<a href="https://bitcoinmagazine.com/articles/Bitcoinica_An_Obituary-1336979566"><u>the exchange permanently shut down</u></a>&nbsp;&nbsp;.</p>
 
 
 
@@ -1114,7 +1114,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 43000 BTC</code></p>
+<p>The value of lost assets: 43000 BTC</p>
 
 
 
@@ -1122,7 +1122,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>It’s a little tricky.&nbsp;<code>Linode</code>is a web hosting provider that hosts cryptocurrency exchanges&nbsp;<code>Bitcoinica</code>and&nbsp;<code>Slush</code>.&nbsp;<a href="https://www.theregister.co.uk/2012/03/02/linode_bitcoin_heist/"><u>Linode itself was hacked</u></a>&nbsp;&nbsp;, and the attackers managed to steal significant amounts of Bitcoin from both exchanges.</p>
+<p>It’s a little tricky.&nbsp;Linodeis a web hosting provider that hosts cryptocurrency exchanges&nbsp;Bitcoinicaand&nbsp;Slush.&nbsp;<a href="https://www.theregister.co.uk/2012/03/02/linode_bitcoin_heist/"><u>Linode itself was hacked</u></a>&nbsp;&nbsp;, and the attackers managed to steal significant amounts of Bitcoin from both exchanges.</p>
 
 
 
@@ -1134,7 +1134,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p><code>The value of lost assets: 2643 BTC</code></p>
+<p>The value of lost assets: 2643 BTC</p>
 
 
 
@@ -1142,7 +1142,7 @@ This is another case where it is not clear how the hackers stole the funds. [How
 
 
 
-<p>Although it was a relatively modest hack at the time, it was only the beginning of the problems for&nbsp;<code>Mt.Gox</code>.&nbsp;In the course of this hack, hackers were able to gain access to a computer belonging to an auditor on a cryptocurrency exchange.&nbsp;The hacker&nbsp;<a href="https://www.ledger.com/hack-flasback-the-mt-gox-hack-the-most-iconic-exchange-hack/"><u>changed the price of bitcoins to $0.01, bought them at an artificially low price</u></a>&nbsp;&nbsp;, and fled with a small fortune.</p>
+<p>Although it was a relatively modest hack at the time, it was only the beginning of the problems for&nbsp;Mt.Gox.&nbsp;In the course of this hack, hackers were able to gain access to a computer belonging to an auditor on a cryptocurrency exchange.&nbsp;The hacker&nbsp;<a href="https://www.ledger.com/hack-flasback-the-mt-gox-hack-the-most-iconic-exchange-hack/"><u>changed the price of bitcoins to $0.01, bought them at an artificially low price</u></a>&nbsp;&nbsp;, and fled with a small fortune.</p>
 
 
 
