@@ -13,7 +13,7 @@ Three bridge hacks this month accounted for 82% of October’s losses, with the 
   
 | Date | Amount stolen | Who? | What? |
 |---|---|---|---|
-| Feb 2021 | $45k | Cryptopia | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process](https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
+| Feb 2021 | $45k | [Cryptopia](https://cryptopia.com/) | [Troubled NZ Crypto Exchange Cryptopia Suffers Another Hack in the Midst of Liquidation Process](https://news.bitcoin.com/troubled-nz-crypto-exchange-cryptopia-suffers-another-hack-in-the-midst-of-liquidation-process/) |
 | Feb 2021 | $37m | Alpha Homora | [Alpha Homora loses $37 million following Iron Bank exploit](https://cointelegraph.com/news/alpha-homora-loses-37-million-following-iron-bank-exploit) |
 | Feb 2021 | $14m | Furucombo | [Transaction batching protocol Furucombo suffers $14 million ‘evil contract’ hack](https://cointelegraph.com/news/transaction-batching-protocol-furucombo-suffers-14-million-evil-contract-hack) |
 | Feb 2021 | $11m | Yearn Finance | [Hacker Spends $8.3 Million in Fees to Attack Yearn Finance](https://cryptobriefing.com/hacker-spends-8-3-million-fees-attack-yearn-finance/) |
